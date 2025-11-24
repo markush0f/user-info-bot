@@ -1,10 +1,9 @@
 from sqlmodel import Session
-from models import User
-from repositories.user_repository import UserRepository
+from app.models.user import User
+from app.repositories.user_repository import UserRepository
 
 
 class UserService:
-    # Added session injection and repository creation inside the service
     def __init__(self, session: Session):
         self.session = session
         self.repository = UserRepository(session)

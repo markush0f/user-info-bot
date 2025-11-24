@@ -10,6 +10,7 @@ CREATE TABLE public.chunks (
   CONSTRAINT chunks_pkey PRIMARY KEY (id),
   CONSTRAINT chunks_document_id_fkey FOREIGN KEY (document_id) REFERENCES public.documents(id)
 );
+
 CREATE TABLE public.documents (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   entity_id uuid,
@@ -19,6 +20,7 @@ CREATE TABLE public.documents (
   CONSTRAINT documents_pkey PRIMARY KEY (id),
   CONSTRAINT documents_entity_id_fkey FOREIGN KEY (entity_id) REFERENCES public.entities(id)
 );
+
 CREATE TABLE public.embeddings (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   chunk_id uuid,
@@ -27,6 +29,7 @@ CREATE TABLE public.embeddings (
   CONSTRAINT embeddings_pkey PRIMARY KEY (id),
   CONSTRAINT embeddings_chunk_id_fkey FOREIGN KEY (chunk_id) REFERENCES public.chunks(id)
 );
+
 CREATE TABLE public.entities (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   user_id uuid,
@@ -38,6 +41,7 @@ CREATE TABLE public.entities (
   CONSTRAINT entities_user_id_fkey FOREIGN KEY (user_id) REFERENCES public.users(id),
   CONSTRAINT entities_project_id_fkey FOREIGN KEY (project_id) REFERENCES public.projects(id)
 );
+
 CREATE TABLE public.languages_stats (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   language text NOT NULL UNIQUE,
@@ -49,6 +53,7 @@ CREATE TABLE public.languages_stats (
   updated_at timestamp without time zone DEFAULT now(),
   CONSTRAINT languages_stats_pkey PRIMARY KEY (id)
 );
+
 CREATE TABLE public.project_languages (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   project_id uuid,
@@ -58,6 +63,7 @@ CREATE TABLE public.project_languages (
   CONSTRAINT project_languages_pkey PRIMARY KEY (id),
   CONSTRAINT project_languages_project_id_fkey FOREIGN KEY (project_id) REFERENCES public.projects(id)
 );
+
 CREATE TABLE public.projects (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   user_id uuid,
@@ -70,6 +76,7 @@ CREATE TABLE public.projects (
   CONSTRAINT projects_pkey PRIMARY KEY (id),
   CONSTRAINT projects_user_id_fkey FOREIGN KEY (user_id) REFERENCES public.users(id)
 );
+
 CREATE TABLE public.user_languages (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   user_id uuid,
@@ -80,6 +87,7 @@ CREATE TABLE public.user_languages (
   CONSTRAINT user_languages_pkey PRIMARY KEY (id),
   CONSTRAINT user_languages_user_id_fkey FOREIGN KEY (user_id) REFERENCES public.users(id)
 );
+
 CREATE TABLE public.users (
   id uuid NOT NULL DEFAULT uuid_generate_v4(),
   username text NOT NULL UNIQUE,
