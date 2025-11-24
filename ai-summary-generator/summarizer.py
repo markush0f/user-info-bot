@@ -2,8 +2,10 @@ import os
 import json
 from dotenv import load_dotenv
 import openai
+from pathlib import Path
 
-load_dotenv()
+env_path = Path(os.getcwd()) / ".env"
+load_dotenv(env_path)
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
