@@ -1,4 +1,3 @@
-from .reader import GitHubReader
 from .processor import normalize_user, normalize_repo
 from .logger import logger
 from .utils import detect_language_from_filename
