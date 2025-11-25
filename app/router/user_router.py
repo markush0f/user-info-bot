@@ -1,4 +1,5 @@
 from fastapi import APIRouter
+from app.services.github_info_service import GithubInfoService
 from app.services.user_service import UserService
 from app.models.user import User
 
@@ -27,3 +28,8 @@ def list_users():
 def get_user(user_id: str):
     service = UserService()
     return service.get_user(user_id)
+
+@router.get("/github/info/{username}")
+async def  extract_info_github(username: str):
+    service = GithubInfoService()
+    return await service.extract(username)

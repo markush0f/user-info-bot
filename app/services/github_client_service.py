@@ -58,32 +58,24 @@ class GithubClientService:
         return await self.get_json(f"/repos/{username}/{repo}/branches")
 
     async def get_commit_count(self, username: str, repo: str):
-        endpoint = f"/repos/{username}/{repo}/commits?per_page=1"
+        url = f"{self.base_url}/repos/{username}/{repo}/stats/contributors"
         async with httpx.AsyncClient() as client:
-            response = await client.get(
-                f"{self.base_url}{endpoint}", headers=self.headers
-            )
+            response = await client.get(url, headers=self.headers)
 
-            if response.status_code == 409:
+            # GitHub may return 202 when stats are being generated
+            if response.status_code == 202:
+                return None
+
+            if response.status_code == 404:
                 return 0
 
             response.raise_for_status()
+            data = response.json()
 
-            link = response.headers.get("Link", None)
-            if not link:
-                return 1
+            # Sum total commits from all contributors
+            return sum(item.get("total", 0) for item in data)
 
-            parts = link.split(",")
-            for part in parts:
-                if 'rel="last"' in part:
-                    url = part.split(";")[0].strip("<>")
-                    query = url.split("?")[1]
-                    params = query.split("&")
-                    for p in params:
-                        if p.startswith("page="):
-                            return int(p.replace("page=", ""))
 
-            return 1
 
     async def get_user_commits(self, username: str, repo_owner: str, repo: str):
         return await self.get_json(

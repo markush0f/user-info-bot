@@ -42,3 +42,5 @@ def update_project(project_id: str, **fields):
 def delete_project(project_id: str):
     service = ProjectService()
     return service.delete_project(project_id)
+
+

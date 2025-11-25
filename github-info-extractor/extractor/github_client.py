@@ -1,6 +1,5 @@
 import httpx
-from .config import get_github_token
-from .logger import logger
+from app.config import get_github_token
 
 class GitHubClient:
     def __init__(self):
