@@ -44,7 +44,7 @@ def extract_projects(base_path: str):
     # Extract all project data
     projects_dir = os.path.join(base_path, "projects")
     os.makedirs(projects_dir, exist_ok=True)
-    
+
     projects = []
 
     for repo_name in os.listdir(projects_dir):
@@ -56,6 +56,7 @@ def extract_projects(base_path: str):
         repo_json_path = os.path.join(repo_path, "repo.json")
         readme_path = os.path.join(repo_path, "readme.md")
         languages_path = os.path.join(repo_path, "languages.json")
+        summary_path = os.path.join(repo_path, "summary.txt")
 
         repo_data = load_json(repo_json_path)
 
@@ -63,7 +64,11 @@ def extract_projects(base_path: str):
             repo_data["readme"] = normalize_text(load_text(readme_path))
 
         repo_data["languages"] = load_json(languages_path)
-
+        repo_data["summary"] = (
+            normalize_text(load_text(summary_path))
+            if os.path.exists(summary_path)
+            else None
+        )
         projects.append(repo_data)
 
     return projects
