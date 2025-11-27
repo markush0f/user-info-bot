@@ -136,8 +136,8 @@ class ProjectService:
                 entity_type="project_summary",
                 raw_data={
                     "project": project,
-                    "summary": project.get("summary")
-                }
+                },
+                summary= project.get("summary")
             )
 
             results.append({

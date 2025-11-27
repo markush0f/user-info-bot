@@ -15,7 +15,8 @@ class EntityService:
         user_id: uuid.UUID,
         project_id: uuid.UUID,
         entity_type: str,
-        raw_data: dict
+        raw_data: dict,
+        summary: str
     ):
         logger.info(f"Creating entity for project: {project_id}")
 
@@ -23,7 +24,8 @@ class EntityService:
             "user_id": user_id,
             "project_id": project_id,
             "type": entity_type,
-            "raw_data": raw_data
+            "raw_data": raw_data,
+            "summary": summary
         }
 
         existing = self.repository.get_by_project(project_id)
