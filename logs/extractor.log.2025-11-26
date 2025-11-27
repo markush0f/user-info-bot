@@ -1,0 +1,414 @@
+2025-11-26 23:23:26,991 - github_extractor - INFO - Reading user: markush0f
+2025-11-26 23:23:26,992 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:23:27,408 - github_extractor - INFO - Reading repositories for: markush0f
+2025-11-26 23:23:27,408 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-26 23:23:28,293 - github_extractor - INFO - Decoding README for repo: markush0f
+2025-11-26 23:23:28,293 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:23:28,755 - github_extractor - INFO - Decoding README for repo: ALL-ABOUT-IA
+2025-11-26 23:23:28,755 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-26 23:23:29,261 - github_extractor - INFO - Reading languages for repo: ALL-ABOUT-IA
+2025-11-26 23:23:29,261 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-26 23:23:29,662 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-26 23:23:30,596 - github_extractor - INFO - Decoding README for repo: car-milanuncios
+2025-11-26 23:23:30,596 - github_extractor - INFO - Requesting README for repo: car-milanuncios
+2025-11-26 23:23:31,044 - github_extractor - INFO - Reading languages for repo: car-milanuncios
+2025-11-26 23:23:31,044 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/languages
+2025-11-26 23:23:31,458 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/branches
+2025-11-26 23:23:32,354 - github_extractor - INFO - Decoding README for repo: chatAndThrow
+2025-11-26 23:23:32,354 - github_extractor - INFO - Requesting README for repo: chatAndThrow
+2025-11-26 23:23:32,808 - github_extractor - INFO - Reading languages for repo: chatAndThrow
+2025-11-26 23:23:32,808 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/languages
+2025-11-26 23:23:33,208 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/branches
+2025-11-26 23:23:34,103 - github_extractor - INFO - Decoding README for repo: dashboard
+2025-11-26 23:23:34,103 - github_extractor - INFO - Requesting README for repo: dashboard
+2025-11-26 23:23:34,632 - github_extractor - INFO - Reading languages for repo: dashboard
+2025-11-26 23:23:34,632 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/languages
+2025-11-26 23:23:35,039 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/branches
+2025-11-26 23:23:35,944 - github_extractor - INFO - Decoding README for repo: docs-translator
+2025-11-26 23:23:35,944 - github_extractor - INFO - Requesting README for repo: docs-translator
+2025-11-26 23:23:36,454 - github_extractor - INFO - Reading languages for repo: docs-translator
+2025-11-26 23:23:36,454 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/languages
+2025-11-26 23:23:36,860 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/branches
+2025-11-26 23:23:37,858 - github_extractor - INFO - Decoding README for repo: entity-generator
+2025-11-26 23:23:37,858 - github_extractor - INFO - Requesting README for repo: entity-generator
+2025-11-26 23:23:38,378 - github_extractor - INFO - Reading languages for repo: entity-generator
+2025-11-26 23:23:38,378 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/languages
+2025-11-26 23:23:38,800 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/branches
+2025-11-26 23:23:39,695 - github_extractor - INFO - Decoding README for repo: fast-rust
+2025-11-26 23:23:39,695 - github_extractor - INFO - Requesting README for repo: fast-rust
+2025-11-26 23:23:40,153 - github_extractor - WARNING - No README found for repo: fast-rust
+2025-11-26 23:23:40,154 - github_extractor - INFO - Reading languages for repo: fast-rust
+2025-11-26 23:23:40,154 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/languages
+2025-11-26 23:23:40,580 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/branches
+2025-11-26 23:23:41,477 - github_extractor - INFO - Decoding README for repo: FastWords
+2025-11-26 23:23:41,477 - github_extractor - INFO - Requesting README for repo: FastWords
+2025-11-26 23:23:41,943 - github_extractor - WARNING - No README found for repo: FastWords
+2025-11-26 23:23:41,943 - github_extractor - INFO - Reading languages for repo: FastWords
+2025-11-26 23:23:41,944 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/languages
+2025-11-26 23:23:42,341 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/branches
+2025-11-26 23:23:43,200 - github_extractor - INFO - Decoding README for repo: generator-archinfra
+2025-11-26 23:23:43,200 - github_extractor - INFO - Requesting README for repo: generator-archinfra
+2025-11-26 23:23:43,729 - github_extractor - INFO - Reading languages for repo: generator-archinfra
+2025-11-26 23:23:43,729 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/languages
+2025-11-26 23:23:44,147 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/branches
+2025-11-26 23:23:45,046 - github_extractor - INFO - Decoding README for repo: github-info-extractor
+2025-11-26 23:23:45,046 - github_extractor - INFO - Requesting README for repo: github-info-extractor
+2025-11-26 23:23:45,505 - github_extractor - WARNING - No README found for repo: github-info-extractor
+2025-11-26 23:23:45,505 - github_extractor - INFO - Reading languages for repo: github-info-extractor
+2025-11-26 23:23:45,506 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/languages
+2025-11-26 23:23:45,931 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/branches
+2025-11-26 23:23:46,805 - github_extractor - INFO - Decoding README for repo: impostor-game
+2025-11-26 23:23:46,805 - github_extractor - INFO - Requesting README for repo: impostor-game
+2025-11-26 23:23:47,267 - github_extractor - WARNING - No README found for repo: impostor-game
+2025-11-26 23:23:47,267 - github_extractor - INFO - Reading languages for repo: impostor-game
+2025-11-26 23:23:47,267 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/languages
+2025-11-26 23:23:47,705 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/branches
+2025-11-26 23:23:48,672 - github_extractor - INFO - Decoding README for repo: Inyeccion-dependencias-express
+2025-11-26 23:23:48,672 - github_extractor - INFO - Requesting README for repo: Inyeccion-dependencias-express
+2025-11-26 23:23:49,137 - github_extractor - INFO - Reading languages for repo: Inyeccion-dependencias-express
+2025-11-26 23:23:49,137 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/languages
+2025-11-26 23:23:49,544 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/branches
+2025-11-26 23:23:50,406 - github_extractor - INFO - Decoding README for repo: LLM-DB-CONECTOR
+2025-11-26 23:23:50,406 - github_extractor - INFO - Requesting README for repo: LLM-DB-CONECTOR
+2025-11-26 23:23:50,828 - github_extractor - INFO - Reading languages for repo: LLM-DB-CONECTOR
+2025-11-26 23:23:50,828 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/languages
+2025-11-26 23:23:51,228 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/branches
+2025-11-26 23:23:52,080 - github_extractor - INFO - Decoding README for repo: mam-shop
+2025-11-26 23:23:52,081 - github_extractor - INFO - Requesting README for repo: mam-shop
+2025-11-26 23:23:52,581 - github_extractor - INFO - Reading languages for repo: mam-shop
+2025-11-26 23:23:52,581 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/languages
+2025-11-26 23:23:53,018 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/branches
+2025-11-26 23:23:53,888 - github_extractor - INFO - Decoding README for repo: markush0f
+2025-11-26 23:23:53,888 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:23:54,377 - github_extractor - INFO - Reading languages for repo: markush0f
+2025-11-26 23:23:54,377 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/languages
+2025-11-26 23:25:58,299 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:27:43,833 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:27:44,229 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-26 23:27:44,815 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:27:45,056 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-26 23:27:45,281 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-26 23:27:45,558 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-26 23:27:46,055 - github_extractor - INFO - Requesting README for repo: car-milanuncios
+2025-11-26 23:27:46,367 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/languages
+2025-11-26 23:27:46,638 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/branches
+2025-11-26 23:27:47,324 - github_extractor - INFO - Requesting README for repo: chatAndThrow
+2025-11-26 23:27:47,578 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/languages
+2025-11-26 23:27:47,859 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/branches
+2025-11-26 23:27:48,382 - github_extractor - INFO - Requesting README for repo: dashboard
+2025-11-26 23:27:48,682 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/languages
+2025-11-26 23:27:48,957 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/branches
+2025-11-26 23:27:49,400 - github_extractor - INFO - Requesting README for repo: docs-translator
+2025-11-26 23:27:50,277 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/languages
+2025-11-26 23:27:50,560 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/branches
+2025-11-26 23:27:51,328 - github_extractor - INFO - Requesting README for repo: entity-generator
+2025-11-26 23:27:51,560 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/languages
+2025-11-26 23:27:51,840 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/branches
+2025-11-26 23:27:52,354 - github_extractor - INFO - Requesting README for repo: fast-rust
+2025-11-26 23:27:52,622 - github_extractor - WARNING - No README found for repo: fast-rust
+2025-11-26 23:27:52,623 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/languages
+2025-11-26 23:27:52,920 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/branches
+2025-11-26 23:27:53,431 - github_extractor - INFO - Requesting README for repo: FastWords
+2025-11-26 23:27:53,727 - github_extractor - WARNING - No README found for repo: FastWords
+2025-11-26 23:27:53,728 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/languages
+2025-11-26 23:27:54,018 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/branches
+2025-11-26 23:27:54,518 - github_extractor - INFO - Requesting README for repo: generator-archinfra
+2025-11-26 23:27:54,997 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/languages
+2025-11-26 23:27:55,274 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/branches
+2025-11-26 23:27:55,745 - github_extractor - INFO - Requesting README for repo: github-info-extractor
+2025-11-26 23:27:56,033 - github_extractor - WARNING - No README found for repo: github-info-extractor
+2025-11-26 23:27:56,034 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/languages
+2025-11-26 23:27:56,318 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/branches
+2025-11-26 23:27:56,784 - github_extractor - INFO - Requesting README for repo: impostor-game
+2025-11-26 23:27:57,041 - github_extractor - WARNING - No README found for repo: impostor-game
+2025-11-26 23:27:57,042 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/languages
+2025-11-26 23:27:57,325 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/branches
+2025-11-26 23:27:57,810 - github_extractor - INFO - Requesting README for repo: Inyeccion-dependencias-express
+2025-11-26 23:27:58,103 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/languages
+2025-11-26 23:27:58,392 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/branches
+2025-11-26 23:27:58,847 - github_extractor - INFO - Requesting README for repo: LLM-DB-CONECTOR
+2025-11-26 23:27:59,082 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/languages
+2025-11-26 23:27:59,414 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/branches
+2025-11-26 23:27:59,901 - github_extractor - INFO - Requesting README for repo: mam-shop
+2025-11-26 23:28:00,220 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/languages
+2025-11-26 23:28:00,498 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/branches
+2025-11-26 23:28:00,993 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:28:01,227 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/languages
+2025-11-26 23:28:01,516 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/branches
+2025-11-26 23:28:02,073 - github_extractor - INFO - Requesting README for repo: mediapipe-test
+2025-11-26 23:28:02,387 - github_extractor - WARNING - No README found for repo: mediapipe-test
+2025-11-26 23:28:02,387 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mediapipe-test/languages
+2025-11-26 23:28:02,688 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mediapipe-test/branches
+2025-11-26 23:28:03,202 - github_extractor - INFO - Requesting README for repo: nestjs-hexagonal-architecture
+2025-11-26 23:28:03,550 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/nestjs-hexagonal-architecture/languages
+2025-11-26 23:28:03,832 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/nestjs-hexagonal-architecture/branches
+2025-11-26 23:28:04,322 - github_extractor - INFO - Requesting README for repo: next-call-dev-config
+2025-11-26 23:28:04,623 - github_extractor - WARNING - No README found for repo: next-call-dev-config
+2025-11-26 23:28:04,623 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/next-call-dev-config/languages
+2025-11-26 23:28:04,898 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/next-call-dev-config/branches
+2025-11-26 23:28:05,434 - github_extractor - INFO - Requesting README for repo: NextCallDevBack
+2025-11-26 23:28:05,740 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/NextCallDevBack/languages
+2025-11-26 23:28:06,043 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/NextCallDevBack/branches
+2025-11-26 23:28:06,582 - github_extractor - INFO - Requesting README for repo: portfolio
+2025-11-26 23:28:06,922 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/portfolio/languages
+2025-11-26 23:28:07,218 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/portfolio/branches
+2025-11-26 23:28:07,728 - github_extractor - INFO - Requesting README for repo: python-analysis
+2025-11-26 23:28:07,996 - github_extractor - WARNING - No README found for repo: python-analysis
+2025-11-26 23:28:07,996 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-analysis/languages
+2025-11-26 23:28:08,280 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-analysis/branches
+2025-11-26 23:28:08,992 - github_extractor - INFO - Requesting README for repo: python-automatization
+2025-11-26 23:28:09,332 - github_extractor - WARNING - No README found for repo: python-automatization
+2025-11-26 23:28:09,332 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-automatization/languages
+2025-11-26 23:28:09,624 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-automatization/branches
+2025-11-26 23:28:10,336 - github_extractor - INFO - Requesting README for repo: rag-chatbot
+2025-11-26 23:28:10,621 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/rag-chatbot/languages
+2025-11-26 23:28:10,904 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/rag-chatbot/branches
+2025-11-26 23:28:11,425 - github_extractor - INFO - Requesting README for repo: REACT-NEXTJS-COURSE-2025
+2025-11-26 23:28:11,783 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/REACT-NEXTJS-COURSE-2025/languages
+2025-11-26 23:28:12,061 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/REACT-NEXTJS-COURSE-2025/branches
+2025-11-26 23:28:12,561 - github_extractor - INFO - Requesting README for repo: Rust
+2025-11-26 23:28:12,875 - github_extractor - WARNING - No README found for repo: Rust
+2025-11-26 23:28:12,875 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Rust/languages
+2025-11-26 23:28:13,360 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Rust/branches
+2025-11-26 23:28:13,906 - github_extractor - INFO - Requesting README for repo: SOLID-Typescript
+2025-11-26 23:28:14,354 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/SOLID-Typescript/languages
+2025-11-26 23:28:14,617 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/SOLID-Typescript/branches
+2025-11-26 23:28:15,148 - github_extractor - INFO - Requesting README for repo: TDD-NestJS
+2025-11-26 23:28:15,450 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TDD-NestJS/languages
+2025-11-26 23:28:15,706 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TDD-NestJS/branches
+2025-11-26 23:28:16,240 - github_extractor - INFO - Requesting README for repo: TIKTOK-DEV
+2025-11-26 23:28:16,456 - github_extractor - WARNING - No README found for repo: TIKTOK-DEV
+2025-11-26 23:28:16,456 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TIKTOK-DEV/languages
+2025-11-26 23:28:16,729 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TIKTOK-DEV/branches
+2025-11-26 23:29:56,124 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:29:56,523 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-26 23:29:56,824 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:29:57,053 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-26 23:29:57,480 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-26 23:29:57,758 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-26 23:30:16,839 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:30:17,235 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-26 23:30:17,667 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:30:17,970 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-26 23:30:18,267 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-26 23:30:18,556 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-26 23:31:15,290 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:31:15,709 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-26 23:31:16,209 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:31:16,439 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-26 23:31:16,668 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-26 23:31:16,983 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-26 23:31:50,318 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:31:50,725 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-26 23:31:51,034 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:31:51,282 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-26 23:31:51,560 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-26 23:31:51,842 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-26 23:33:26,266 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:33:26,675 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-26 23:33:27,070 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:33:27,286 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-26 23:33:27,531 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-26 23:33:27,808 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-26 23:33:28,348 - github_extractor - INFO - Requesting README for repo: car-milanuncios
+2025-11-26 23:33:28,592 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/languages
+2025-11-26 23:33:28,909 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/branches
+2025-11-26 23:33:29,644 - github_extractor - INFO - Requesting README for repo: chatAndThrow
+2025-11-26 23:33:29,936 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/languages
+2025-11-26 23:33:30,515 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/branches
+2025-11-26 23:33:31,090 - github_extractor - INFO - Requesting README for repo: dashboard
+2025-11-26 23:33:31,335 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/languages
+2025-11-26 23:33:31,623 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/branches
+2025-11-26 23:33:32,167 - github_extractor - INFO - Requesting README for repo: docs-translator
+2025-11-26 23:33:32,492 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/languages
+2025-11-26 23:33:32,772 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/branches
+2025-11-26 23:33:33,286 - github_extractor - INFO - Requesting README for repo: entity-generator
+2025-11-26 23:33:33,558 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/languages
+2025-11-26 23:33:33,857 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/branches
+2025-11-26 23:33:34,386 - github_extractor - INFO - Requesting README for repo: fast-rust
+2025-11-26 23:33:34,619 - github_extractor - WARNING - No README found for repo: fast-rust
+2025-11-26 23:33:34,619 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/languages
+2025-11-26 23:33:34,902 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/branches
+2025-11-26 23:33:35,644 - github_extractor - INFO - Requesting README for repo: FastWords
+2025-11-26 23:33:35,881 - github_extractor - WARNING - No README found for repo: FastWords
+2025-11-26 23:33:35,881 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/languages
+2025-11-26 23:33:36,169 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/branches
+2025-11-26 23:33:36,713 - github_extractor - INFO - Requesting README for repo: generator-archinfra
+2025-11-26 23:33:36,956 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/languages
+2025-11-26 23:33:37,242 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/branches
+2025-11-26 23:33:37,811 - github_extractor - INFO - Requesting README for repo: github-info-extractor
+2025-11-26 23:33:38,072 - github_extractor - WARNING - No README found for repo: github-info-extractor
+2025-11-26 23:33:38,072 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/languages
+2025-11-26 23:33:38,347 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/branches
+2025-11-26 23:33:38,847 - github_extractor - INFO - Requesting README for repo: impostor-game
+2025-11-26 23:33:39,075 - github_extractor - WARNING - No README found for repo: impostor-game
+2025-11-26 23:33:39,075 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/languages
+2025-11-26 23:33:39,356 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/branches
+2025-11-26 23:33:39,832 - github_extractor - INFO - Requesting README for repo: Inyeccion-dependencias-express
+2025-11-26 23:33:40,069 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/languages
+2025-11-26 23:33:40,358 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/branches
+2025-11-26 23:33:41,122 - github_extractor - INFO - Requesting README for repo: LLM-DB-CONECTOR
+2025-11-26 23:33:41,363 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/languages
+2025-11-26 23:33:41,681 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/branches
+2025-11-26 23:33:42,196 - github_extractor - INFO - Requesting README for repo: mam-shop
+2025-11-26 23:33:42,436 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/languages
+2025-11-26 23:33:42,720 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/branches
+2025-11-26 23:33:43,250 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:33:43,484 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/languages
+2025-11-26 23:33:43,767 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/branches
+2025-11-26 23:33:44,291 - github_extractor - INFO - Requesting README for repo: mediapipe-test
+2025-11-26 23:33:44,612 - github_extractor - WARNING - No README found for repo: mediapipe-test
+2025-11-26 23:33:44,613 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mediapipe-test/languages
+2025-11-26 23:33:44,899 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mediapipe-test/branches
+2025-11-26 23:33:45,443 - github_extractor - INFO - Requesting README for repo: nestjs-hexagonal-architecture
+2025-11-26 23:33:45,766 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/nestjs-hexagonal-architecture/languages
+2025-11-26 23:33:46,051 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/nestjs-hexagonal-architecture/branches
+2025-11-26 23:33:46,547 - github_extractor - INFO - Requesting README for repo: next-call-dev-config
+2025-11-26 23:33:46,774 - github_extractor - WARNING - No README found for repo: next-call-dev-config
+2025-11-26 23:33:46,774 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/next-call-dev-config/languages
+2025-11-26 23:33:47,069 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/next-call-dev-config/branches
+2025-11-26 23:33:47,787 - github_extractor - INFO - Requesting README for repo: NextCallDevBack
+2025-11-26 23:33:48,089 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/NextCallDevBack/languages
+2025-11-26 23:33:48,385 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/NextCallDevBack/branches
+2025-11-26 23:33:49,272 - github_extractor - INFO - Requesting README for repo: portfolio
+2025-11-26 23:33:49,565 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/portfolio/languages
+2025-11-26 23:33:49,839 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/portfolio/branches
+2025-11-26 23:33:50,444 - github_extractor - INFO - Requesting README for repo: python-analysis
+2025-11-26 23:33:50,744 - github_extractor - WARNING - No README found for repo: python-analysis
+2025-11-26 23:33:50,744 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-analysis/languages
+2025-11-26 23:33:51,028 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-analysis/branches
+2025-11-26 23:33:51,547 - github_extractor - INFO - Requesting README for repo: python-automatization
+2025-11-26 23:33:51,788 - github_extractor - WARNING - No README found for repo: python-automatization
+2025-11-26 23:33:51,788 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-automatization/languages
+2025-11-26 23:33:52,068 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-automatization/branches
+2025-11-26 23:33:52,612 - github_extractor - INFO - Requesting README for repo: rag-chatbot
+2025-11-26 23:33:52,841 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/rag-chatbot/languages
+2025-11-26 23:33:53,123 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/rag-chatbot/branches
+2025-11-26 23:33:53,653 - github_extractor - INFO - Requesting README for repo: REACT-NEXTJS-COURSE-2025
+2025-11-26 23:33:54,153 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/REACT-NEXTJS-COURSE-2025/languages
+2025-11-26 23:33:54,432 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/REACT-NEXTJS-COURSE-2025/branches
+2025-11-26 23:33:55,170 - github_extractor - INFO - Requesting README for repo: Rust
+2025-11-26 23:33:55,476 - github_extractor - WARNING - No README found for repo: Rust
+2025-11-26 23:33:55,476 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Rust/languages
+2025-11-26 23:33:55,773 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Rust/branches
+2025-11-26 23:33:56,284 - github_extractor - INFO - Requesting README for repo: SOLID-Typescript
+2025-11-26 23:33:56,572 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/SOLID-Typescript/languages
+2025-11-26 23:33:56,858 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/SOLID-Typescript/branches
+2025-11-26 23:33:57,383 - github_extractor - INFO - Requesting README for repo: TDD-NestJS
+2025-11-26 23:33:57,696 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TDD-NestJS/languages
+2025-11-26 23:33:57,984 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TDD-NestJS/branches
+2025-11-26 23:33:58,527 - github_extractor - INFO - Requesting README for repo: TIKTOK-DEV
+2025-11-26 23:33:58,724 - github_extractor - WARNING - No README found for repo: TIKTOK-DEV
+2025-11-26 23:33:58,724 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TIKTOK-DEV/languages
+2025-11-26 23:33:58,998 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TIKTOK-DEV/branches
+2025-11-26 23:33:59,470 - github_extractor - INFO - Requesting README for repo: TrainTrack
+2025-11-26 23:33:59,867 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TrainTrack/languages
+2025-11-26 23:34:00,150 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TrainTrack/branches
+2025-11-26 23:34:00,909 - github_extractor - INFO - Requesting README for repo: TypeScript-GOF
+2025-11-26 23:34:01,196 - github_extractor - WARNING - No README found for repo: TypeScript-GOF
+2025-11-26 23:34:01,196 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TypeScript-GOF/languages
+2025-11-26 23:34:01,484 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TypeScript-GOF/branches
+2025-11-26 23:37:16,992 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-26 23:37:17,374 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-26 23:37:17,718 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:37:17,944 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-26 23:37:18,188 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-26 23:37:18,452 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-26 23:37:18,938 - github_extractor - INFO - Requesting README for repo: car-milanuncios
+2025-11-26 23:37:19,356 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/languages
+2025-11-26 23:37:19,640 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/branches
+2025-11-26 23:37:20,172 - github_extractor - INFO - Requesting README for repo: chatAndThrow
+2025-11-26 23:37:20,377 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/languages
+2025-11-26 23:37:20,652 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/branches
+2025-11-26 23:37:21,120 - github_extractor - INFO - Requesting README for repo: dashboard
+2025-11-26 23:37:21,349 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/languages
+2025-11-26 23:37:21,644 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/branches
+2025-11-26 23:37:22,150 - github_extractor - INFO - Requesting README for repo: docs-translator
+2025-11-26 23:37:22,359 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/languages
+2025-11-26 23:37:22,641 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/branches
+2025-11-26 23:37:23,153 - github_extractor - INFO - Requesting README for repo: entity-generator
+2025-11-26 23:37:23,395 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/languages
+2025-11-26 23:37:23,663 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/branches
+2025-11-26 23:37:24,194 - github_extractor - INFO - Requesting README for repo: fast-rust
+2025-11-26 23:37:24,644 - github_extractor - WARNING - No README found for repo: fast-rust
+2025-11-26 23:37:24,645 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/languages
+2025-11-26 23:37:24,924 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/branches
+2025-11-26 23:37:25,432 - github_extractor - INFO - Requesting README for repo: FastWords
+2025-11-26 23:37:25,658 - github_extractor - WARNING - No README found for repo: FastWords
+2025-11-26 23:37:25,658 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/languages
+2025-11-26 23:37:26,016 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/branches
+2025-11-26 23:37:26,503 - github_extractor - INFO - Requesting README for repo: generator-archinfra
+2025-11-26 23:37:26,756 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/languages
+2025-11-26 23:37:27,033 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/branches
+2025-11-26 23:37:27,566 - github_extractor - INFO - Requesting README for repo: github-info-extractor
+2025-11-26 23:37:27,796 - github_extractor - WARNING - No README found for repo: github-info-extractor
+2025-11-26 23:37:27,796 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/languages
+2025-11-26 23:37:28,068 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/branches
+2025-11-26 23:37:28,767 - github_extractor - INFO - Requesting README for repo: impostor-game
+2025-11-26 23:37:28,990 - github_extractor - WARNING - No README found for repo: impostor-game
+2025-11-26 23:37:28,990 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/languages
+2025-11-26 23:37:29,276 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/branches
+2025-11-26 23:37:29,722 - github_extractor - INFO - Requesting README for repo: Inyeccion-dependencias-express
+2025-11-26 23:37:29,976 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/languages
+2025-11-26 23:37:30,250 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/branches
+2025-11-26 23:37:31,178 - github_extractor - INFO - Requesting README for repo: LLM-DB-CONECTOR
+2025-11-26 23:37:31,411 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/languages
+2025-11-26 23:37:31,685 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/branches
+2025-11-26 23:37:32,378 - github_extractor - INFO - Requesting README for repo: mam-shop
+2025-11-26 23:37:32,624 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/languages
+2025-11-26 23:37:32,901 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/branches
+2025-11-26 23:37:33,344 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-26 23:37:33,648 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/languages
+2025-11-26 23:37:33,921 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/branches
+2025-11-26 23:37:34,585 - github_extractor - INFO - Requesting README for repo: mediapipe-test
+2025-11-26 23:37:34,841 - github_extractor - WARNING - No README found for repo: mediapipe-test
+2025-11-26 23:37:34,841 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mediapipe-test/languages
+2025-11-26 23:37:35,121 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mediapipe-test/branches
+2025-11-26 23:37:35,782 - github_extractor - INFO - Requesting README for repo: nestjs-hexagonal-architecture
+2025-11-26 23:37:36,010 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/nestjs-hexagonal-architecture/languages
+2025-11-26 23:37:36,298 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/nestjs-hexagonal-architecture/branches
+2025-11-26 23:37:36,746 - github_extractor - INFO - Requesting README for repo: next-call-dev-config
+2025-11-26 23:37:36,957 - github_extractor - WARNING - No README found for repo: next-call-dev-config
+2025-11-26 23:37:36,957 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/next-call-dev-config/languages
+2025-11-26 23:37:37,245 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/next-call-dev-config/branches
+2025-11-26 23:37:37,720 - github_extractor - INFO - Requesting README for repo: NextCallDevBack
+2025-11-26 23:37:38,030 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/NextCallDevBack/languages
+2025-11-26 23:37:38,301 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/NextCallDevBack/branches
+2025-11-26 23:37:38,829 - github_extractor - INFO - Requesting README for repo: portfolio
+2025-11-26 23:37:39,164 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/portfolio/languages
+2025-11-26 23:37:39,434 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/portfolio/branches
+2025-11-26 23:37:40,151 - github_extractor - INFO - Requesting README for repo: python-analysis
+2025-11-26 23:37:40,403 - github_extractor - WARNING - No README found for repo: python-analysis
+2025-11-26 23:37:40,404 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-analysis/languages
+2025-11-26 23:37:40,690 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-analysis/branches
+2025-11-26 23:37:41,153 - github_extractor - INFO - Requesting README for repo: python-automatization
+2025-11-26 23:37:41,436 - github_extractor - WARNING - No README found for repo: python-automatization
+2025-11-26 23:37:41,436 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-automatization/languages
+2025-11-26 23:37:41,710 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-automatization/branches
+2025-11-26 23:37:42,236 - github_extractor - INFO - Requesting README for repo: rag-chatbot
+2025-11-26 23:37:42,530 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/rag-chatbot/languages
+2025-11-26 23:37:42,801 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/rag-chatbot/branches
+2025-11-26 23:37:43,271 - github_extractor - INFO - Requesting README for repo: REACT-NEXTJS-COURSE-2025
+2025-11-26 23:37:43,566 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/REACT-NEXTJS-COURSE-2025/languages
+2025-11-26 23:37:43,856 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/REACT-NEXTJS-COURSE-2025/branches
+2025-11-26 23:37:44,394 - github_extractor - INFO - Requesting README for repo: Rust
+2025-11-26 23:37:44,620 - github_extractor - WARNING - No README found for repo: Rust
+2025-11-26 23:37:44,620 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Rust/languages
+2025-11-26 23:37:44,931 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Rust/branches
+2025-11-26 23:37:45,864 - github_extractor - INFO - Requesting README for repo: SOLID-Typescript
+2025-11-26 23:37:46,148 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/SOLID-Typescript/languages
+2025-11-26 23:37:46,422 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/SOLID-Typescript/branches
+2025-11-26 23:37:46,932 - github_extractor - INFO - Requesting README for repo: TDD-NestJS
+2025-11-26 23:37:47,170 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TDD-NestJS/languages
+2025-11-26 23:37:47,444 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TDD-NestJS/branches
+2025-11-26 23:37:47,919 - github_extractor - INFO - Requesting README for repo: TIKTOK-DEV
+2025-11-26 23:37:48,115 - github_extractor - WARNING - No README found for repo: TIKTOK-DEV
+2025-11-26 23:37:48,115 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TIKTOK-DEV/languages
+2025-11-26 23:37:48,388 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TIKTOK-DEV/branches
+2025-11-26 23:37:49,044 - github_extractor - INFO - Requesting README for repo: TrainTrack
+2025-11-26 23:37:49,351 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TrainTrack/languages
+2025-11-26 23:37:49,653 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TrainTrack/branches
+2025-11-26 23:37:50,174 - github_extractor - INFO - Requesting README for repo: TypeScript-GOF
+2025-11-26 23:37:50,472 - github_extractor - WARNING - No README found for repo: TypeScript-GOF
+2025-11-26 23:37:50,472 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TypeScript-GOF/languages
+2025-11-26 23:37:50,751 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TypeScript-GOF/branches

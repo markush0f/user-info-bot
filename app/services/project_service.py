@@ -2,13 +2,17 @@ import uuid
 from app.db import get_session
 from app.models.project import Project
 from app.repositories.project_repository import ProjectRepository
-
+from app.services.summary_projects_service import SummaryProjectsService
+from app.utils.file_writer import save_text
+from app.utils.github_files_loader import extract_projects
+from app.logger import logger
 
 class ProjectService:
     # Opens a session and initializes the repository
     def __init__(self):
         self.session = get_session()
         self.repository = ProjectRepository(self.session)
+        self.summarizer = SummaryProjectsService()
 
     # Creates a project or returns it if it already exists
     def create_project(
@@ -70,3 +74,38 @@ class ProjectService:
         result = self.repository.delete(project_id)
         self.session.close()
         return result
+
+    # Added: summarize one project
+    def summarize_single_project(self, project: dict):
+        logger.info(f"Summarizing single project: {project.get('name')}")
+
+        content = f"""
+        Project name: {project.get('name')}
+        Description: {project.get('description')}
+        Languages: {project.get('languages')}
+        Commit count: {project.get('commit_count')}
+        README:
+        {project.get('readme', '')}
+        """
+        summary = self.summarizer.summarize_project(content)
+        logger.debug(f"Summary created for project: {project.get('name')}")
+        return summary
+
+    # Added: summarize all projects and save output
+    def summarize_all_projects(self):
+        logger.info("Loading all extracted projects")
+        projects = extract_projects("output")
+
+        for project in projects:
+            name = project["name"]
+            logger.info(f"Summarizing project: {name}")
+
+            summary = self.summarize_single_project(project)
+
+            summary_path = f"output/projects/{name}/summary.txt"
+            save_text(summary, summary_path) # type: ignore
+
+            logger.debug(f"Summary saved at: {summary_path}")
+
+        logger.info("All project summaries generated successfully")
+        return True
