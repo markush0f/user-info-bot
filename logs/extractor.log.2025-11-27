@@ -1,0 +1,508 @@
+2025-11-27 00:02:20,332 - github_extractor - INFO - Loading all extracted projects
+2025-11-27 00:02:20,334 - github_extractor - INFO - Summarizing project: TDD-NestJS
+2025-11-27 00:02:20,334 - github_extractor - INFO - Summarizing single project: TDD-NestJS
+2025-11-27 00:02:31,061 - github_extractor - INFO - Summarizing project: portfolio
+2025-11-27 00:02:31,061 - github_extractor - INFO - Summarizing single project: portfolio
+2025-11-27 00:02:38,485 - github_extractor - INFO - Summarizing project: NextCallDevBack
+2025-11-27 00:02:38,485 - github_extractor - INFO - Summarizing single project: NextCallDevBack
+2025-11-27 00:02:48,941 - github_extractor - INFO - Summarizing project: entity-generator
+2025-11-27 00:02:48,941 - github_extractor - INFO - Summarizing single project: entity-generator
+2025-11-27 00:03:04,180 - github_extractor - INFO - Summarizing project: TypeScript-GOF
+2025-11-27 00:03:04,180 - github_extractor - INFO - Summarizing single project: TypeScript-GOF
+2025-11-27 00:03:14,034 - github_extractor - INFO - Summarizing project: Rust
+2025-11-27 00:03:14,034 - github_extractor - INFO - Summarizing single project: Rust
+2025-11-27 00:03:26,073 - github_extractor - INFO - Summarizing project: ALL-ABOUT-IA
+2025-11-27 00:03:26,073 - github_extractor - INFO - Summarizing single project: ALL-ABOUT-IA
+2025-11-27 00:03:39,085 - github_extractor - INFO - Summarizing project: generator-archinfra
+2025-11-27 00:03:39,085 - github_extractor - INFO - Summarizing single project: generator-archinfra
+2025-11-27 00:03:49,321 - github_extractor - INFO - Summarizing project: fast-rust
+2025-11-27 00:03:49,321 - github_extractor - INFO - Summarizing single project: fast-rust
+2025-11-27 00:03:58,373 - github_extractor - INFO - Summarizing project: REACT-NEXTJS-COURSE-2025
+2025-11-27 00:03:58,373 - github_extractor - INFO - Summarizing single project: REACT-NEXTJS-COURSE-2025
+2025-11-27 00:04:07,250 - github_extractor - INFO - Summarizing project: github-info-extractor
+2025-11-27 00:04:07,250 - github_extractor - INFO - Summarizing single project: github-info-extractor
+2025-11-27 00:04:20,701 - github_extractor - INFO - Summarizing project: Inyeccion-dependencias-express
+2025-11-27 00:04:20,701 - github_extractor - INFO - Summarizing single project: Inyeccion-dependencias-express
+2025-11-27 00:04:30,696 - github_extractor - INFO - Summarizing project: python-analysis
+2025-11-27 00:04:30,696 - github_extractor - INFO - Summarizing single project: python-analysis
+2025-11-27 00:04:40,081 - github_extractor - INFO - Summarizing project: next-call-dev-config
+2025-11-27 00:04:40,081 - github_extractor - INFO - Summarizing single project: next-call-dev-config
+2025-11-27 00:04:47,845 - github_extractor - INFO - Summarizing project: python-automatization
+2025-11-27 00:04:47,845 - github_extractor - INFO - Summarizing single project: python-automatization
+2025-11-27 00:05:05,820 - github_extractor - INFO - Summarizing project: chatAndThrow
+2025-11-27 00:05:05,820 - github_extractor - INFO - Summarizing single project: chatAndThrow
+2025-11-27 00:05:15,498 - github_extractor - INFO - Summarizing project: nestjs-hexagonal-architecture
+2025-11-27 00:05:15,498 - github_extractor - INFO - Summarizing single project: nestjs-hexagonal-architecture
+2025-11-27 00:05:23,924 - github_extractor - INFO - Summarizing project: rag-chatbot
+2025-11-27 00:05:23,924 - github_extractor - INFO - Summarizing single project: rag-chatbot
+2025-11-27 00:05:34,882 - github_extractor - INFO - Summarizing project: car-milanuncios
+2025-11-27 00:05:34,882 - github_extractor - INFO - Summarizing single project: car-milanuncios
+2025-11-27 00:05:46,865 - github_extractor - INFO - Summarizing project: FastWords
+2025-11-27 00:05:46,865 - github_extractor - INFO - Summarizing single project: FastWords
+2025-11-27 00:05:59,308 - github_extractor - INFO - Summarizing project: docs-translator
+2025-11-27 00:05:59,308 - github_extractor - INFO - Summarizing single project: docs-translator
+2025-11-27 00:06:08,978 - github_extractor - INFO - Summarizing project: markush0f
+2025-11-27 00:06:08,978 - github_extractor - INFO - Summarizing single project: markush0f
+2025-11-27 00:06:21,704 - github_extractor - INFO - Summarizing project: LLM-DB-CONECTOR
+2025-11-27 00:06:21,704 - github_extractor - INFO - Summarizing single project: LLM-DB-CONECTOR
+2025-11-27 00:06:36,518 - github_extractor - INFO - Summarizing project: impostor-game
+2025-11-27 00:06:36,518 - github_extractor - INFO - Summarizing single project: impostor-game
+2025-11-27 00:06:43,679 - github_extractor - INFO - Summarizing project: TIKTOK-DEV
+2025-11-27 00:06:43,679 - github_extractor - INFO - Summarizing single project: TIKTOK-DEV
+2025-11-27 00:06:53,966 - github_extractor - INFO - Summarizing project: dashboard
+2025-11-27 00:06:53,966 - github_extractor - INFO - Summarizing single project: dashboard
+2025-11-27 00:07:03,239 - github_extractor - INFO - Summarizing project: SOLID-Typescript
+2025-11-27 00:07:03,239 - github_extractor - INFO - Summarizing single project: SOLID-Typescript
+2025-11-27 00:07:16,156 - github_extractor - INFO - Summarizing project: mediapipe-test
+2025-11-27 00:07:16,156 - github_extractor - INFO - Summarizing single project: mediapipe-test
+2025-11-27 00:07:32,048 - github_extractor - INFO - Summarizing project: mam-shop
+2025-11-27 00:07:32,048 - github_extractor - INFO - Summarizing single project: mam-shop
+2025-11-27 00:07:43,880 - github_extractor - INFO - Summarizing project: TrainTrack
+2025-11-27 00:07:43,880 - github_extractor - INFO - Summarizing single project: TrainTrack
+2025-11-27 00:07:58,176 - github_extractor - INFO - All project summaries generated successfully
+2025-11-27 19:17:09,738 - github_extractor - INFO - Loading project data from output
+2025-11-27 19:17:09,756 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 21:42:58,033 - github_extractor - INFO - Loading all extracted projects
+2025-11-27 21:43:11,898 - github_extractor - INFO - Loading all extracted projects
+2025-11-27 21:43:19,986 - github_extractor - INFO - Loading all extracted projects
+2025-11-27 21:48:31,343 - github_extractor - INFO - Loading all extracted projects
+2025-11-27 21:48:31,343 - github_extractor - INFO - All project summaries generated successfully
+2025-11-27 21:50:43,424 - github_extractor - INFO - Requesting endpoint: /users/markush0f
+2025-11-27 21:50:43,856 - github_extractor - INFO - Requesting endpoint: /users/markush0f/repos
+2025-11-27 21:50:44,732 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-27 21:50:45,056 - github_extractor - INFO - Requesting README for repo: ALL-ABOUT-IA
+2025-11-27 21:50:45,375 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/languages
+2025-11-27 21:50:45,662 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/ALL-ABOUT-IA/branches
+2025-11-27 21:50:46,227 - github_extractor - INFO - Requesting README for repo: car-milanuncios
+2025-11-27 21:50:46,526 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/languages
+2025-11-27 21:50:46,806 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/car-milanuncios/branches
+2025-11-27 21:50:47,524 - github_extractor - INFO - Requesting README for repo: chatAndThrow
+2025-11-27 21:50:47,854 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/languages
+2025-11-27 21:50:48,136 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/chatAndThrow/branches
+2025-11-27 21:50:48,693 - github_extractor - INFO - Requesting README for repo: dashboard
+2025-11-27 21:50:49,007 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/languages
+2025-11-27 21:50:49,274 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/dashboard/branches
+2025-11-27 21:50:49,907 - github_extractor - INFO - Requesting README for repo: docs-translator
+2025-11-27 21:50:50,247 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/languages
+2025-11-27 21:50:50,531 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/docs-translator/branches
+2025-11-27 21:50:51,089 - github_extractor - INFO - Requesting README for repo: entity-generator
+2025-11-27 21:50:51,405 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/languages
+2025-11-27 21:50:51,692 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/entity-generator/branches
+2025-11-27 21:50:52,276 - github_extractor - INFO - Requesting README for repo: fast-rust
+2025-11-27 21:50:52,561 - github_extractor - WARNING - No README found for repo: fast-rust
+2025-11-27 21:50:52,561 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/languages
+2025-11-27 21:50:52,839 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/fast-rust/branches
+2025-11-27 21:50:53,506 - github_extractor - INFO - Requesting README for repo: FastWords
+2025-11-27 21:50:53,809 - github_extractor - WARNING - No README found for repo: FastWords
+2025-11-27 21:50:53,809 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/languages
+2025-11-27 21:50:54,111 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/FastWords/branches
+2025-11-27 21:50:54,689 - github_extractor - INFO - Requesting README for repo: generator-archinfra
+2025-11-27 21:50:54,992 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/languages
+2025-11-27 21:50:55,282 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/generator-archinfra/branches
+2025-11-27 21:50:55,823 - github_extractor - INFO - Requesting README for repo: github-info-extractor
+2025-11-27 21:50:56,052 - github_extractor - WARNING - No README found for repo: github-info-extractor
+2025-11-27 21:50:56,052 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/languages
+2025-11-27 21:50:56,331 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/github-info-extractor/branches
+2025-11-27 21:50:56,878 - github_extractor - INFO - Requesting README for repo: impostor-game
+2025-11-27 21:50:57,178 - github_extractor - WARNING - No README found for repo: impostor-game
+2025-11-27 21:50:57,178 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/languages
+2025-11-27 21:50:57,456 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/impostor-game/branches
+2025-11-27 21:50:58,065 - github_extractor - INFO - Requesting README for repo: Inyeccion-dependencias-express
+2025-11-27 21:50:58,366 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/languages
+2025-11-27 21:50:58,652 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Inyeccion-dependencias-express/branches
+2025-11-27 21:50:59,435 - github_extractor - INFO - Requesting README for repo: LLM-DB-CONECTOR
+2025-11-27 21:50:59,705 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/languages
+2025-11-27 21:50:59,990 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/LLM-DB-CONECTOR/branches
+2025-11-27 21:51:00,573 - github_extractor - INFO - Requesting README for repo: mam-shop
+2025-11-27 21:51:00,918 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/languages
+2025-11-27 21:51:01,199 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mam-shop/branches
+2025-11-27 21:51:01,734 - github_extractor - INFO - Requesting README for repo: markush0f
+2025-11-27 21:51:01,984 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/languages
+2025-11-27 21:51:02,275 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/markush0f/branches
+2025-11-27 21:51:02,823 - github_extractor - INFO - Requesting README for repo: mediapipe-test
+2025-11-27 21:51:03,116 - github_extractor - WARNING - No README found for repo: mediapipe-test
+2025-11-27 21:51:03,116 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mediapipe-test/languages
+2025-11-27 21:51:03,413 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/mediapipe-test/branches
+2025-11-27 21:51:03,970 - github_extractor - INFO - Requesting README for repo: nestjs-hexagonal-architecture
+2025-11-27 21:51:04,267 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/nestjs-hexagonal-architecture/languages
+2025-11-27 21:51:04,547 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/nestjs-hexagonal-architecture/branches
+2025-11-27 21:51:05,080 - github_extractor - INFO - Requesting README for repo: next-call-dev-config
+2025-11-27 21:51:05,397 - github_extractor - WARNING - No README found for repo: next-call-dev-config
+2025-11-27 21:51:05,397 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/next-call-dev-config/languages
+2025-11-27 21:51:05,676 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/next-call-dev-config/branches
+2025-11-27 21:51:06,219 - github_extractor - INFO - Requesting README for repo: NextCallDevBack
+2025-11-27 21:51:06,552 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/NextCallDevBack/languages
+2025-11-27 21:51:06,832 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/NextCallDevBack/branches
+2025-11-27 21:51:07,360 - github_extractor - INFO - Requesting README for repo: portfolio
+2025-11-27 21:51:07,666 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/portfolio/languages
+2025-11-27 21:51:07,949 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/portfolio/branches
+2025-11-27 21:51:08,485 - github_extractor - INFO - Requesting README for repo: PyRustic
+2025-11-27 21:51:08,787 - github_extractor - WARNING - No README found for repo: PyRustic
+2025-11-27 21:51:08,787 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/PyRustic/languages
+2025-11-27 21:51:09,067 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/PyRustic/branches
+2025-11-27 21:51:09,630 - github_extractor - INFO - Requesting README for repo: python-analysis
+2025-11-27 21:51:09,929 - github_extractor - WARNING - No README found for repo: python-analysis
+2025-11-27 21:51:09,929 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-analysis/languages
+2025-11-27 21:51:10,216 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-analysis/branches
+2025-11-27 21:51:10,835 - github_extractor - INFO - Requesting README for repo: python-automatization
+2025-11-27 21:51:11,172 - github_extractor - WARNING - No README found for repo: python-automatization
+2025-11-27 21:51:11,172 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-automatization/languages
+2025-11-27 21:51:11,617 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/python-automatization/branches
+2025-11-27 21:51:12,141 - github_extractor - INFO - Requesting README for repo: rag-chatbot
+2025-11-27 21:51:12,436 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/rag-chatbot/languages
+2025-11-27 21:51:12,720 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/rag-chatbot/branches
+2025-11-27 21:51:13,286 - github_extractor - INFO - Requesting README for repo: REACT-NEXTJS-COURSE-2025
+2025-11-27 21:51:13,588 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/REACT-NEXTJS-COURSE-2025/languages
+2025-11-27 21:51:13,866 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/REACT-NEXTJS-COURSE-2025/branches
+2025-11-27 21:51:14,455 - github_extractor - INFO - Requesting README for repo: Rust
+2025-11-27 21:51:14,740 - github_extractor - WARNING - No README found for repo: Rust
+2025-11-27 21:51:14,740 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Rust/languages
+2025-11-27 21:51:15,029 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/Rust/branches
+2025-11-27 21:51:15,588 - github_extractor - INFO - Requesting README for repo: SOLID-Typescript
+2025-11-27 21:51:15,905 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/SOLID-Typescript/languages
+2025-11-27 21:51:16,189 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/SOLID-Typescript/branches
+2025-11-27 21:51:16,720 - github_extractor - INFO - Requesting README for repo: TDD-NestJS
+2025-11-27 21:51:17,039 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TDD-NestJS/languages
+2025-11-27 21:51:17,325 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TDD-NestJS/branches
+2025-11-27 21:51:17,877 - github_extractor - INFO - Requesting README for repo: TIKTOK-DEV
+2025-11-27 21:51:18,096 - github_extractor - WARNING - No README found for repo: TIKTOK-DEV
+2025-11-27 21:51:18,096 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TIKTOK-DEV/languages
+2025-11-27 21:51:18,371 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TIKTOK-DEV/branches
+2025-11-27 21:51:18,876 - github_extractor - INFO - Requesting README for repo: TrainTrack
+2025-11-27 21:51:19,172 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TrainTrack/languages
+2025-11-27 21:51:19,450 - github_extractor - INFO - Requesting endpoint: /repos/markush0f/TrainTrack/branches
+2025-11-27 21:51:51,049 - github_extractor - INFO - Loading project data from output
+2025-11-27 21:51:51,051 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 21:51:51,427 - github_extractor - INFO - Creating entity for project: 4940e78b-c7de-4885-8070-45087f8e3c79
+2025-11-27 22:20:42,384 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:20:42,386 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:20:43,626 - github_extractor - INFO - Creating entity for project: 4940e78b-c7de-4885-8070-45087f8e3c79
+2025-11-27 22:27:16,891 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:27:16,894 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:27:17,500 - github_extractor - INFO - Creating entity for project: 4940e78b-c7de-4885-8070-45087f8e3c79
+2025-11-27 22:27:37,622 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:27:37,624 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:27:38,747 - github_extractor - INFO - Creating entity for project: 4940e78b-c7de-4885-8070-45087f8e3c79
+2025-11-27 22:27:48,364 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:27:48,366 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:27:49,569 - github_extractor - INFO - Creating entity for project: 4940e78b-c7de-4885-8070-45087f8e3c79
+2025-11-27 22:30:47,009 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:30:47,010 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:30:48,204 - github_extractor - INFO - Creating entity for project: 4940e78b-c7de-4885-8070-45087f8e3c79
+2025-11-27 22:30:49,264 - github_extractor - INFO - Saving project: portfolio
+2025-11-27 22:30:49,564 - github_extractor - INFO - Creating entity for project: 9131ba11-bc27-4636-b724-fadafdd66058
+2025-11-27 22:30:49,996 - github_extractor - INFO - Saving project: NextCallDevBack
+2025-11-27 22:30:50,298 - github_extractor - INFO - Creating entity for project: a5910aa0-570d-47a9-b045-34c176c90342
+2025-11-27 22:30:50,659 - github_extractor - INFO - Saving project: entity-generator
+2025-11-27 22:30:50,956 - github_extractor - INFO - Creating entity for project: 18c8fb8c-8bd4-4509-9bf3-7cf9c8e86944
+2025-11-27 22:30:51,395 - github_extractor - INFO - Saving project: Rust
+2025-11-27 22:30:51,694 - github_extractor - INFO - Creating entity for project: 38ded4f7-1945-47c2-9139-91290c6df819
+2025-11-27 22:30:52,012 - github_extractor - INFO - Saving project: ALL-ABOUT-IA
+2025-11-27 22:30:52,313 - github_extractor - INFO - Creating entity for project: 45b21889-a8a5-4857-870f-2b90549aa7c4
+2025-11-27 22:30:52,669 - github_extractor - INFO - Saving project: generator-archinfra
+2025-11-27 22:30:52,968 - github_extractor - INFO - Creating entity for project: 087c32aa-efa4-47d7-bf2b-fe9288168037
+2025-11-27 22:30:53,350 - github_extractor - INFO - Saving project: fast-rust
+2025-11-27 22:30:53,649 - github_extractor - INFO - Creating entity for project: cd14137e-d2e1-4b6f-817a-e48baf228fa3
+2025-11-27 22:30:53,971 - github_extractor - INFO - Saving project: REACT-NEXTJS-COURSE-2025
+2025-11-27 22:30:54,269 - github_extractor - INFO - Creating entity for project: 91a465d8-6255-4483-8be7-be2933a5dd68
+2025-11-27 22:30:54,587 - github_extractor - INFO - Saving project: github-info-extractor
+2025-11-27 22:30:54,885 - github_extractor - INFO - Creating entity for project: e4248ae4-a016-46b2-b9ef-01ef97d98b39
+2025-11-27 22:30:55,204 - github_extractor - INFO - Saving project: Inyeccion-dependencias-express
+2025-11-27 22:30:55,505 - github_extractor - INFO - Creating entity for project: 0113fbe6-b9f0-47e5-956e-4554d138f7c2
+2025-11-27 22:30:55,860 - github_extractor - INFO - Saving project: python-analysis
+2025-11-27 22:30:56,158 - github_extractor - INFO - Creating entity for project: 6c8b1d79-d490-4a5c-90ea-b12fb3510bbe
+2025-11-27 22:30:56,577 - github_extractor - INFO - Saving project: next-call-dev-config
+2025-11-27 22:30:56,879 - github_extractor - INFO - Creating entity for project: d8bd56a7-5cc8-4b24-b444-bffec62834da
+2025-11-27 22:30:57,196 - github_extractor - INFO - Saving project: python-automatization
+2025-11-27 22:30:57,494 - github_extractor - INFO - Creating entity for project: 0f83d78d-d54a-41a8-b49b-f27f85c62314
+2025-11-27 22:30:57,815 - github_extractor - INFO - Saving project: chatAndThrow
+2025-11-27 22:30:58,115 - github_extractor - INFO - Creating entity for project: 6573613b-893a-480d-bbb6-97ca2e4835e3
+2025-11-27 22:30:58,533 - github_extractor - INFO - Saving project: PyRustic
+2025-11-27 22:30:58,831 - github_extractor - INFO - Creating entity for project: 03d39246-0b8d-425a-bf1b-5d60dd2ec630
+2025-11-27 22:30:59,149 - github_extractor - INFO - Saving project: nestjs-hexagonal-architecture
+2025-11-27 22:30:59,448 - github_extractor - INFO - Creating entity for project: 57d02b49-1cfe-453a-aaca-57fbd1000025
+2025-11-27 22:30:59,806 - github_extractor - INFO - Saving project: rag-chatbot
+2025-11-27 22:31:00,105 - github_extractor - INFO - Creating entity for project: 466418ea-fc97-461d-8d79-c1353ac5cc1f
+2025-11-27 22:31:00,489 - github_extractor - INFO - Saving project: car-milanuncios
+2025-11-27 22:31:00,787 - github_extractor - INFO - Creating entity for project: ff219796-b077-4d73-86f8-9f6751a23bf0
+2025-11-27 22:31:01,106 - github_extractor - INFO - Saving project: FastWords
+2025-11-27 22:31:01,406 - github_extractor - INFO - Creating entity for project: 279e6e68-6ac4-4c4f-a54b-233eee41a0ac
+2025-11-27 22:31:01,725 - github_extractor - INFO - Saving project: docs-translator
+2025-11-27 22:31:02,026 - github_extractor - INFO - Creating entity for project: d0b0f9af-1a03-4fe6-ae17-fb393222837f
+2025-11-27 22:31:02,389 - github_extractor - INFO - Saving project: markush0f
+2025-11-27 22:31:02,687 - github_extractor - INFO - Creating entity for project: 799ee61a-98c9-44c8-b345-04b1e6621168
+2025-11-27 22:31:03,044 - github_extractor - INFO - Saving project: LLM-DB-CONECTOR
+2025-11-27 22:31:03,343 - github_extractor - INFO - Creating entity for project: eb9a218f-4c5d-4a11-b06c-9c4ce31ca512
+2025-11-27 22:31:03,702 - github_extractor - INFO - Saving project: impostor-game
+2025-11-27 22:31:04,000 - github_extractor - INFO - Creating entity for project: c48e2276-4548-448c-8643-4283c2cf05cb
+2025-11-27 22:31:04,318 - github_extractor - INFO - Saving project: TIKTOK-DEV
+2025-11-27 22:31:04,621 - github_extractor - INFO - Creating entity for project: d57c00b0-9b16-451d-8ed3-a27f1da53ca1
+2025-11-27 22:31:04,943 - github_extractor - INFO - Saving project: dashboard
+2025-11-27 22:31:05,242 - github_extractor - INFO - Creating entity for project: 2cf9d5cd-4f00-46fc-bbd3-eee3e38cbc99
+2025-11-27 22:31:05,683 - github_extractor - INFO - Saving project: SOLID-Typescript
+2025-11-27 22:31:05,981 - github_extractor - INFO - Creating entity for project: bd203a7c-b356-4abf-bad8-bcbcaa6e321d
+2025-11-27 22:31:06,339 - github_extractor - INFO - Saving project: mediapipe-test
+2025-11-27 22:31:06,638 - github_extractor - INFO - Creating entity for project: 7d6cc3fc-f32c-4cad-9f39-01c9e4191900
+2025-11-27 22:31:06,956 - github_extractor - INFO - Saving project: mam-shop
+2025-11-27 22:31:07,254 - github_extractor - INFO - Creating entity for project: 3811e81d-3b06-493d-8857-5c31a5affac1
+2025-11-27 22:31:07,654 - github_extractor - INFO - Saving project: TrainTrack
+2025-11-27 22:31:07,951 - github_extractor - INFO - Creating entity for project: 0c9be0f6-a622-41a7-949a-49db26256e11
+2025-11-27 22:38:28,422 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:38:28,423 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:38:29,701 - github_extractor - INFO - Creating entity for project: 4940e78b-c7de-4885-8070-45087f8e3c79
+2025-11-27 22:38:48,292 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:38:48,294 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:38:49,203 - github_extractor - INFO - Creating entity for project: 1dce8cfa-aa58-46c9-bad2-8b7f827cada4
+2025-11-27 22:39:28,356 - github_extractor - INFO - Loading all extracted projects
+2025-11-27 22:39:28,359 - github_extractor - INFO - Summarizing project: TDD-NestJS
+2025-11-27 22:39:28,359 - github_extractor - INFO - Summarizing single project: TDD-NestJS
+2025-11-27 22:39:41,209 - github_extractor - INFO - Summarizing project: portfolio
+2025-11-27 22:39:41,210 - github_extractor - INFO - Summarizing single project: portfolio
+2025-11-27 22:39:50,015 - github_extractor - INFO - Summarizing project: NextCallDevBack
+2025-11-27 22:39:50,015 - github_extractor - INFO - Summarizing single project: NextCallDevBack
+2025-11-27 22:40:06,077 - github_extractor - INFO - Summarizing project: entity-generator
+2025-11-27 22:40:06,077 - github_extractor - INFO - Summarizing single project: entity-generator
+2025-11-27 22:40:16,487 - github_extractor - INFO - Summarizing project: Rust
+2025-11-27 22:40:16,487 - github_extractor - INFO - Summarizing single project: Rust
+2025-11-27 22:40:28,362 - github_extractor - INFO - Summarizing project: ALL-ABOUT-IA
+2025-11-27 22:40:28,362 - github_extractor - INFO - Summarizing single project: ALL-ABOUT-IA
+2025-11-27 22:40:41,587 - github_extractor - INFO - Summarizing project: generator-archinfra
+2025-11-27 22:40:41,587 - github_extractor - INFO - Summarizing single project: generator-archinfra
+2025-11-27 22:40:51,190 - github_extractor - INFO - Summarizing project: fast-rust
+2025-11-27 22:40:51,190 - github_extractor - INFO - Summarizing single project: fast-rust
+2025-11-27 22:41:06,646 - github_extractor - INFO - Summarizing project: REACT-NEXTJS-COURSE-2025
+2025-11-27 22:41:06,646 - github_extractor - INFO - Summarizing single project: REACT-NEXTJS-COURSE-2025
+2025-11-27 22:41:17,613 - github_extractor - INFO - Summarizing project: github-info-extractor
+2025-11-27 22:41:17,613 - github_extractor - INFO - Summarizing single project: github-info-extractor
+2025-11-27 22:41:29,189 - github_extractor - INFO - Summarizing project: Inyeccion-dependencias-express
+2025-11-27 22:41:29,189 - github_extractor - INFO - Summarizing single project: Inyeccion-dependencias-express
+2025-11-27 22:41:43,329 - github_extractor - INFO - Summarizing project: python-analysis
+2025-11-27 22:41:43,329 - github_extractor - INFO - Summarizing single project: python-analysis
+2025-11-27 22:42:04,170 - github_extractor - INFO - Summarizing project: next-call-dev-config
+2025-11-27 22:42:04,170 - github_extractor - INFO - Summarizing single project: next-call-dev-config
+2025-11-27 22:42:09,654 - github_extractor - INFO - Summarizing project: python-automatization
+2025-11-27 22:42:09,654 - github_extractor - INFO - Summarizing single project: python-automatization
+2025-11-27 22:42:18,437 - github_extractor - INFO - Summarizing project: chatAndThrow
+2025-11-27 22:42:18,438 - github_extractor - INFO - Summarizing single project: chatAndThrow
+2025-11-27 22:42:29,518 - github_extractor - INFO - Summarizing project: PyRustic
+2025-11-27 22:42:29,518 - github_extractor - INFO - Summarizing single project: PyRustic
+2025-11-27 22:42:38,804 - github_extractor - INFO - Summarizing project: nestjs-hexagonal-architecture
+2025-11-27 22:42:38,804 - github_extractor - INFO - Summarizing single project: nestjs-hexagonal-architecture
+2025-11-27 22:42:47,214 - github_extractor - INFO - Summarizing project: rag-chatbot
+2025-11-27 22:42:47,215 - github_extractor - INFO - Summarizing single project: rag-chatbot
+2025-11-27 22:42:58,237 - github_extractor - INFO - Summarizing project: car-milanuncios
+2025-11-27 22:42:58,237 - github_extractor - INFO - Summarizing single project: car-milanuncios
+2025-11-27 22:43:10,427 - github_extractor - INFO - Summarizing project: FastWords
+2025-11-27 22:43:10,428 - github_extractor - INFO - Summarizing single project: FastWords
+2025-11-27 22:43:21,177 - github_extractor - INFO - Summarizing project: docs-translator
+2025-11-27 22:43:21,177 - github_extractor - INFO - Summarizing single project: docs-translator
+2025-11-27 22:43:30,648 - github_extractor - INFO - Summarizing project: markush0f
+2025-11-27 22:43:30,648 - github_extractor - INFO - Summarizing single project: markush0f
+2025-11-27 22:43:40,706 - github_extractor - INFO - Summarizing project: LLM-DB-CONECTOR
+2025-11-27 22:43:40,706 - github_extractor - INFO - Summarizing single project: LLM-DB-CONECTOR
+2025-11-27 22:43:59,953 - github_extractor - INFO - Summarizing project: impostor-game
+2025-11-27 22:43:59,953 - github_extractor - INFO - Summarizing single project: impostor-game
+2025-11-27 22:44:10,352 - github_extractor - INFO - Summarizing project: TIKTOK-DEV
+2025-11-27 22:44:10,352 - github_extractor - INFO - Summarizing single project: TIKTOK-DEV
+2025-11-27 22:44:19,857 - github_extractor - INFO - Summarizing project: dashboard
+2025-11-27 22:44:19,857 - github_extractor - INFO - Summarizing single project: dashboard
+2025-11-27 22:44:26,178 - github_extractor - INFO - Summarizing project: SOLID-Typescript
+2025-11-27 22:44:26,178 - github_extractor - INFO - Summarizing single project: SOLID-Typescript
+2025-11-27 22:44:36,924 - github_extractor - INFO - Summarizing project: mediapipe-test
+2025-11-27 22:44:36,924 - github_extractor - INFO - Summarizing single project: mediapipe-test
+2025-11-27 22:44:43,840 - github_extractor - INFO - Summarizing project: mam-shop
+2025-11-27 22:44:43,840 - github_extractor - INFO - Summarizing single project: mam-shop
+2025-11-27 22:44:51,169 - github_extractor - INFO - Summarizing project: TrainTrack
+2025-11-27 22:44:51,170 - github_extractor - INFO - Summarizing single project: TrainTrack
+2025-11-27 22:44:57,351 - github_extractor - INFO - All project summaries generated successfully
+2025-11-27 22:46:16,012 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:46:16,014 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:47:04,858 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:47:04,859 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:47:05,234 - github_extractor - INFO - Creating entity for project: bc85f27b-87ba-48d4-896b-727ff973274e
+2025-11-27 22:48:23,491 - github_extractor - INFO - Loading project data from output
+2025-11-27 22:48:23,493 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 22:48:24,953 - github_extractor - INFO - Creating entity for project: 603fb877-aa20-471d-9cae-e9ada6abe4ed
+2025-11-27 22:48:25,941 - github_extractor - INFO - Saving project: portfolio
+2025-11-27 22:48:26,243 - github_extractor - INFO - Creating entity for project: b167f38c-79d7-4cc7-abe8-529d19eacee0
+2025-11-27 22:48:26,591 - github_extractor - INFO - Saving project: NextCallDevBack
+2025-11-27 22:48:26,894 - github_extractor - INFO - Creating entity for project: 3018f8fa-ab1c-40cd-b15e-c227d2938267
+2025-11-27 22:48:27,240 - github_extractor - INFO - Saving project: entity-generator
+2025-11-27 22:48:27,542 - github_extractor - INFO - Creating entity for project: a286253f-ae40-4930-a838-52027e662c83
+2025-11-27 22:48:27,943 - github_extractor - INFO - Saving project: Rust
+2025-11-27 22:48:28,247 - github_extractor - INFO - Creating entity for project: 2509f862-b422-4311-a4d8-35713da99c61
+2025-11-27 22:48:28,556 - github_extractor - INFO - Saving project: ALL-ABOUT-IA
+2025-11-27 22:48:28,859 - github_extractor - INFO - Creating entity for project: 9f5841b2-547a-4988-8067-6b806aadbeb6
+2025-11-27 22:48:29,203 - github_extractor - INFO - Saving project: generator-archinfra
+2025-11-27 22:48:29,505 - github_extractor - INFO - Creating entity for project: 4472f3c3-d7df-4673-8d3e-8590c1dd1f83
+2025-11-27 22:48:29,850 - github_extractor - INFO - Saving project: fast-rust
+2025-11-27 22:48:30,153 - github_extractor - INFO - Creating entity for project: 5b31e67d-922d-4270-8479-ec885e3f9a03
+2025-11-27 22:48:30,464 - github_extractor - INFO - Saving project: REACT-NEXTJS-COURSE-2025
+2025-11-27 22:48:30,765 - github_extractor - INFO - Creating entity for project: bf825dfb-e302-4096-9f0a-4efd4d7bc063
+2025-11-27 22:48:31,076 - github_extractor - INFO - Saving project: github-info-extractor
+2025-11-27 22:48:31,378 - github_extractor - INFO - Creating entity for project: 598992cf-9a76-483a-8064-51cd7e76ff2b
+2025-11-27 22:48:31,686 - github_extractor - INFO - Saving project: Inyeccion-dependencias-express
+2025-11-27 22:48:31,990 - github_extractor - INFO - Creating entity for project: ce321c67-5ff7-4825-afc9-ecf3934a5778
+2025-11-27 22:48:32,340 - github_extractor - INFO - Saving project: python-analysis
+2025-11-27 22:48:32,643 - github_extractor - INFO - Creating entity for project: 01653c7b-53c2-434f-9295-3e701fef4a4a
+2025-11-27 22:48:32,952 - github_extractor - INFO - Saving project: next-call-dev-config
+2025-11-27 22:48:33,254 - github_extractor - INFO - Creating entity for project: caa4b0a6-9e3b-4f7c-a9df-ba3f3d07f965
+2025-11-27 22:48:33,562 - github_extractor - INFO - Saving project: python-automatization
+2025-11-27 22:48:33,864 - github_extractor - INFO - Creating entity for project: 37dff548-5bf0-47fe-b247-006ff0e4e248
+2025-11-27 22:48:34,175 - github_extractor - INFO - Saving project: chatAndThrow
+2025-11-27 22:48:34,477 - github_extractor - INFO - Creating entity for project: d093b8e0-0740-4569-8f56-435318ed7573
+2025-11-27 22:48:34,904 - github_extractor - INFO - Saving project: PyRustic
+2025-11-27 22:48:35,206 - github_extractor - INFO - Creating entity for project: 2a0dcee5-32e4-4efd-9722-10620b6d720d
+2025-11-27 22:48:35,515 - github_extractor - INFO - Saving project: nestjs-hexagonal-architecture
+2025-11-27 22:48:35,817 - github_extractor - INFO - Creating entity for project: 8fd5f4c4-15d8-481e-b61d-8cc4a14e0c36
+2025-11-27 22:48:36,212 - github_extractor - INFO - Saving project: rag-chatbot
+2025-11-27 22:48:36,517 - github_extractor - INFO - Creating entity for project: bad59bc0-31b5-43ce-a307-f9a7295802a0
+2025-11-27 22:48:36,875 - github_extractor - INFO - Saving project: car-milanuncios
+2025-11-27 22:48:37,179 - github_extractor - INFO - Creating entity for project: ee6dd202-eaae-466d-b78a-3d186af0236a
+2025-11-27 22:48:37,488 - github_extractor - INFO - Saving project: FastWords
+2025-11-27 22:48:37,792 - github_extractor - INFO - Creating entity for project: 2423bba2-fb85-4fdd-af71-54c390e516a6
+2025-11-27 22:48:38,102 - github_extractor - INFO - Saving project: docs-translator
+2025-11-27 22:48:38,405 - github_extractor - INFO - Creating entity for project: 4918afed-8b75-431b-8d1d-f786a42809af
+2025-11-27 22:48:38,797 - github_extractor - INFO - Saving project: markush0f
+2025-11-27 22:48:39,099 - github_extractor - INFO - Creating entity for project: 96ebd90b-0c81-43a3-8168-fd0e6e3884ca
+2025-11-27 22:48:39,489 - github_extractor - INFO - Saving project: LLM-DB-CONECTOR
+2025-11-27 22:48:39,792 - github_extractor - INFO - Creating entity for project: add2a479-4616-4672-b071-174ea94d7a6f
+2025-11-27 22:48:40,161 - github_extractor - INFO - Saving project: impostor-game
+2025-11-27 22:48:40,464 - github_extractor - INFO - Creating entity for project: baf07e23-b466-4424-9e73-5c944d56c23e
+2025-11-27 22:48:40,773 - github_extractor - INFO - Saving project: TIKTOK-DEV
+2025-11-27 22:48:41,075 - github_extractor - INFO - Creating entity for project: 75e016a9-8b89-437f-9d7a-601ef13e258a
+2025-11-27 22:48:41,384 - github_extractor - INFO - Saving project: dashboard
+2025-11-27 22:48:41,685 - github_extractor - INFO - Creating entity for project: bb6b64aa-f255-4827-8b79-e6e7e491d965
+2025-11-27 22:48:42,074 - github_extractor - INFO - Saving project: SOLID-Typescript
+2025-11-27 22:48:42,376 - github_extractor - INFO - Creating entity for project: 0563f524-4624-44b4-9871-eef36fe74d4b
+2025-11-27 22:48:42,756 - github_extractor - INFO - Saving project: mediapipe-test
+2025-11-27 22:48:43,065 - github_extractor - INFO - Creating entity for project: 359f3c69-ab77-4976-b49c-7b054da5aab5
+2025-11-27 22:48:43,374 - github_extractor - INFO - Saving project: mam-shop
+2025-11-27 22:48:43,677 - github_extractor - INFO - Creating entity for project: 258ac882-367a-452b-a999-9b55e60220b7
+2025-11-27 22:48:44,031 - github_extractor - INFO - Saving project: TrainTrack
+2025-11-27 22:48:44,333 - github_extractor - INFO - Creating entity for project: 411a7f63-7ffb-4c3b-9710-34cbc6ff7923
+2025-11-27 23:00:19,466 - github_extractor - INFO - Loading project data from output
+2025-11-27 23:00:19,468 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 23:00:20,926 - github_extractor - INFO - Creating entity for project: b83a4d82-9fe5-4a38-91e6-378a1eea8412
+2025-11-27 23:00:21,856 - github_extractor - INFO - Saving project: portfolio
+2025-11-27 23:00:22,158 - github_extractor - INFO - Creating entity for project: a8972ad7-0850-438b-b803-2201ff4a44e6
+2025-11-27 23:00:22,501 - github_extractor - INFO - Saving project: NextCallDevBack
+2025-11-27 23:00:22,803 - github_extractor - INFO - Creating entity for project: 4fd73b75-4988-4cce-9288-cffda85250dd
+2025-11-27 23:00:23,148 - github_extractor - INFO - Saving project: entity-generator
+2025-11-27 23:00:23,452 - github_extractor - INFO - Creating entity for project: bef102a1-26f9-4040-9516-44afab5b7059
+2025-11-27 23:00:23,850 - github_extractor - INFO - Saving project: Rust
+2025-11-27 23:00:24,150 - github_extractor - INFO - Creating entity for project: 9ee892df-daf0-4b56-ba1f-832fb857cea2
+2025-11-27 23:00:24,457 - github_extractor - INFO - Saving project: ALL-ABOUT-IA
+2025-11-27 23:00:24,759 - github_extractor - INFO - Creating entity for project: a4d30e9c-91a7-47c7-97ad-7d8e9b81c2c1
+2025-11-27 23:00:25,102 - github_extractor - INFO - Saving project: generator-archinfra
+2025-11-27 23:00:25,406 - github_extractor - INFO - Creating entity for project: e6bc7de0-259a-431e-9adf-0be43a3caadc
+2025-11-27 23:00:25,776 - github_extractor - INFO - Saving project: fast-rust
+2025-11-27 23:00:26,075 - github_extractor - INFO - Creating entity for project: 2d8578ec-981b-4dd4-be19-f0829c1a208c
+2025-11-27 23:00:26,383 - github_extractor - INFO - Saving project: REACT-NEXTJS-COURSE-2025
+2025-11-27 23:00:26,684 - github_extractor - INFO - Creating entity for project: 8aced7b2-92a1-4846-8262-a20e88aabc67
+2025-11-27 23:00:26,991 - github_extractor - INFO - Saving project: github-info-extractor
+2025-11-27 23:00:27,292 - github_extractor - INFO - Creating entity for project: c06cfccf-ce6e-4fe4-abce-0c266ff85638
+2025-11-27 23:00:27,599 - github_extractor - INFO - Saving project: Inyeccion-dependencias-express
+2025-11-27 23:00:27,900 - github_extractor - INFO - Creating entity for project: 470686f7-e5e9-4593-92b7-99f325ae4c17
+2025-11-27 23:00:28,244 - github_extractor - INFO - Saving project: python-analysis
+2025-11-27 23:00:28,545 - github_extractor - INFO - Creating entity for project: 15cd1b5a-7eb6-4565-be77-05ae47af194e
+2025-11-27 23:00:28,854 - github_extractor - INFO - Saving project: next-call-dev-config
+2025-11-27 23:00:29,155 - github_extractor - INFO - Creating entity for project: 32307c5b-1e69-4bf2-95ae-7767d4e65fe5
+2025-11-27 23:00:29,462 - github_extractor - INFO - Saving project: python-automatization
+2025-11-27 23:00:29,761 - github_extractor - INFO - Creating entity for project: 18819e30-76e1-47d6-9bfb-b4b80e7dbd47
+2025-11-27 23:00:30,069 - github_extractor - INFO - Saving project: chatAndThrow
+2025-11-27 23:00:30,370 - github_extractor - INFO - Creating entity for project: e6535d9c-5cd7-4eff-86bb-ce0cf53d8919
+2025-11-27 23:00:30,771 - github_extractor - INFO - Saving project: PyRustic
+2025-11-27 23:00:31,071 - github_extractor - INFO - Creating entity for project: 703efd9f-9562-4144-bf40-37ea138c84f0
+2025-11-27 23:00:31,378 - github_extractor - INFO - Saving project: nestjs-hexagonal-architecture
+2025-11-27 23:00:31,678 - github_extractor - INFO - Creating entity for project: a43d43be-be16-4c75-942e-4ccd6afe16da
+2025-11-27 23:00:32,025 - github_extractor - INFO - Saving project: rag-chatbot
+2025-11-27 23:00:32,325 - github_extractor - INFO - Creating entity for project: 456d66bf-f091-4046-84e4-b16a61453958
+2025-11-27 23:00:32,676 - github_extractor - INFO - Saving project: car-milanuncios
+2025-11-27 23:00:32,976 - github_extractor - INFO - Creating entity for project: bfa4ea92-d72b-4c8e-81ec-872a71ca412a
+2025-11-27 23:00:33,283 - github_extractor - INFO - Saving project: FastWords
+2025-11-27 23:00:33,585 - github_extractor - INFO - Creating entity for project: 825505e2-5009-48f0-98c3-8246eeb70fed
+2025-11-27 23:00:33,892 - github_extractor - INFO - Saving project: docs-translator
+2025-11-27 23:00:34,192 - github_extractor - INFO - Creating entity for project: 9ff539d4-565a-4256-9be0-cc31b2628f6b
+2025-11-27 23:00:34,574 - github_extractor - INFO - Saving project: markush0f
+2025-11-27 23:00:34,874 - github_extractor - INFO - Creating entity for project: 98f1d401-02d3-4302-ad51-79fbc1871d87
+2025-11-27 23:00:35,227 - github_extractor - INFO - Saving project: LLM-DB-CONECTOR
+2025-11-27 23:00:35,527 - github_extractor - INFO - Creating entity for project: 877658ce-52ce-47b9-8714-852e201559de
+2025-11-27 23:00:35,882 - github_extractor - INFO - Saving project: impostor-game
+2025-11-27 23:00:36,183 - github_extractor - INFO - Creating entity for project: 24103b43-18b1-4b4f-94b3-c544fc13f680
+2025-11-27 23:00:36,492 - github_extractor - INFO - Saving project: TIKTOK-DEV
+2025-11-27 23:00:36,792 - github_extractor - INFO - Creating entity for project: c652462c-d021-4351-82bc-1dddcaf530b4
+2025-11-27 23:00:37,100 - github_extractor - INFO - Saving project: dashboard
+2025-11-27 23:00:37,400 - github_extractor - INFO - Creating entity for project: 9955445f-d632-47ec-9fd8-25df44309e44
+2025-11-27 23:00:37,783 - github_extractor - INFO - Saving project: SOLID-Typescript
+2025-11-27 23:00:38,084 - github_extractor - INFO - Creating entity for project: 1f881e61-cee4-4a20-9faf-0125761a7d56
+2025-11-27 23:00:38,435 - github_extractor - INFO - Saving project: mediapipe-test
+2025-11-27 23:00:38,735 - github_extractor - INFO - Creating entity for project: d3762512-3dee-485d-bf12-7505fffd6cf2
+2025-11-27 23:00:39,044 - github_extractor - INFO - Saving project: mam-shop
+2025-11-27 23:00:39,344 - github_extractor - INFO - Creating entity for project: 31bcc991-93b4-430c-82d7-889d5988ef2b
+2025-11-27 23:00:39,704 - github_extractor - INFO - Saving project: TrainTrack
+2025-11-27 23:00:40,007 - github_extractor - INFO - Creating entity for project: 2ae6cf8a-48d7-4fcc-a18b-a3a5e5da5b3a
+2025-11-27 23:04:21,034 - github_extractor - INFO - Loading project data from output
+2025-11-27 23:04:21,036 - github_extractor - INFO - Saving project: TDD-NestJS
+2025-11-27 23:04:22,449 - github_extractor - INFO - Creating entity for project: 41e46234-4f83-468e-ad18-b669d25af0d2
+2025-11-27 23:04:23,342 - github_extractor - INFO - Saving project: portfolio
+2025-11-27 23:04:23,644 - github_extractor - INFO - Creating entity for project: eeb8652f-b98d-42f8-8a36-74cfbe0ac219
+2025-11-27 23:04:23,993 - github_extractor - INFO - Saving project: NextCallDevBack
+2025-11-27 23:04:24,297 - github_extractor - INFO - Creating entity for project: 2697c4e2-c8dc-4562-9006-3bc1d5a0bac7
+2025-11-27 23:04:24,671 - github_extractor - INFO - Saving project: entity-generator
+2025-11-27 23:04:24,973 - github_extractor - INFO - Creating entity for project: b3561691-89b3-4635-9ad3-ce5d63f686f0
+2025-11-27 23:04:25,345 - github_extractor - INFO - Saving project: Rust
+2025-11-27 23:04:25,650 - github_extractor - INFO - Creating entity for project: 6da6eff6-ea5b-479e-bd04-d420b5479679
+2025-11-27 23:04:25,999 - github_extractor - INFO - Saving project: ALL-ABOUT-IA
+2025-11-27 23:04:26,303 - github_extractor - INFO - Creating entity for project: 25a1e0ff-b741-4dfb-a34c-64dda405d543
+2025-11-27 23:04:26,658 - github_extractor - INFO - Saving project: generator-archinfra
+2025-11-27 23:04:26,962 - github_extractor - INFO - Creating entity for project: 631ee04d-1589-4018-b33e-2c8102203550
+2025-11-27 23:04:27,323 - github_extractor - INFO - Saving project: fast-rust
+2025-11-27 23:04:27,626 - github_extractor - INFO - Creating entity for project: 4b28d736-b2a3-4481-b122-10a3ffaf0876
+2025-11-27 23:04:27,999 - github_extractor - INFO - Saving project: REACT-NEXTJS-COURSE-2025
+2025-11-27 23:04:28,301 - github_extractor - INFO - Creating entity for project: ce75cfdb-d97f-4316-b037-d861f6434bd4
+2025-11-27 23:04:28,682 - github_extractor - INFO - Saving project: github-info-extractor
+2025-11-27 23:04:28,984 - github_extractor - INFO - Creating entity for project: 1364a9eb-5736-4477-8cc4-1df1248b2b9e
+2025-11-27 23:04:29,337 - github_extractor - INFO - Saving project: Inyeccion-dependencias-express
+2025-11-27 23:04:29,639 - github_extractor - INFO - Creating entity for project: a5d6fc03-01eb-4224-91d8-a2cde9919a2a
+2025-11-27 23:04:30,021 - github_extractor - INFO - Saving project: python-analysis
+2025-11-27 23:04:30,324 - github_extractor - INFO - Creating entity for project: 807fcc13-3afa-4f38-b611-50bc5a279886
+2025-11-27 23:04:30,695 - github_extractor - INFO - Saving project: next-call-dev-config
+2025-11-27 23:04:30,999 - github_extractor - INFO - Creating entity for project: dfe8649c-0dcf-4ed2-8424-ad1ae33bfdd2
+2025-11-27 23:04:31,354 - github_extractor - INFO - Saving project: python-automatization
+2025-11-27 23:04:31,657 - github_extractor - INFO - Creating entity for project: 046a4022-677b-4288-a79e-648c17a91ef4
+2025-11-27 23:04:32,011 - github_extractor - INFO - Saving project: chatAndThrow
+2025-11-27 23:04:32,314 - github_extractor - INFO - Creating entity for project: f89ab279-7928-450e-96f7-2f64500057ff
+2025-11-27 23:04:32,708 - github_extractor - INFO - Saving project: PyRustic
+2025-11-27 23:04:33,011 - github_extractor - INFO - Creating entity for project: b69a5d96-1d9d-4f58-be70-da8011580b94
+2025-11-27 23:04:33,370 - github_extractor - INFO - Saving project: nestjs-hexagonal-architecture
+2025-11-27 23:04:33,673 - github_extractor - INFO - Creating entity for project: cdeb7b2c-2ac1-4b2b-8f19-53cc41a5717d
+2025-11-27 23:04:34,070 - github_extractor - INFO - Saving project: rag-chatbot
+2025-11-27 23:04:34,376 - github_extractor - INFO - Creating entity for project: cc1af36c-5761-4fdf-9411-49c417c6621e
+2025-11-27 23:04:34,773 - github_extractor - INFO - Saving project: car-milanuncios
+2025-11-27 23:04:35,076 - github_extractor - INFO - Creating entity for project: cb1a0e2a-aef7-4738-9c57-1e254c84fa21
+2025-11-27 23:04:35,454 - github_extractor - INFO - Saving project: FastWords
+2025-11-27 23:04:35,756 - github_extractor - INFO - Creating entity for project: 2e6bc4f2-2373-4363-9e06-2b6caf541c86
+2025-11-27 23:04:36,154 - github_extractor - INFO - Saving project: docs-translator
+2025-11-27 23:04:36,458 - github_extractor - INFO - Creating entity for project: aa7116a4-a13f-4775-92d3-9f02231c5658
+2025-11-27 23:04:36,877 - github_extractor - INFO - Saving project: markush0f
+2025-11-27 23:04:37,180 - github_extractor - INFO - Creating entity for project: 2415251c-fe9d-4df5-856e-9aa88097955e
+2025-11-27 23:04:37,665 - github_extractor - INFO - Saving project: LLM-DB-CONECTOR
+2025-11-27 23:04:37,967 - github_extractor - INFO - Creating entity for project: 7f9ee7df-df1c-443f-9fc9-5125366def22
+2025-11-27 23:04:38,486 - github_extractor - INFO - Saving project: impostor-game
+2025-11-27 23:04:38,790 - github_extractor - INFO - Creating entity for project: 6ab6010b-5861-445f-a3c7-fc6c2cb9cffa
+2025-11-27 23:04:39,196 - github_extractor - INFO - Saving project: TIKTOK-DEV
+2025-11-27 23:04:39,499 - github_extractor - INFO - Creating entity for project: 0b42b7e6-cf95-46e6-af2f-9bd4bfaee76e
+2025-11-27 23:04:39,885 - github_extractor - INFO - Saving project: dashboard
+2025-11-27 23:04:40,187 - github_extractor - INFO - Creating entity for project: de0799f6-796c-4f21-b6c7-84ad15745ca1
+2025-11-27 23:04:40,606 - github_extractor - INFO - Saving project: SOLID-Typescript
+2025-11-27 23:04:40,908 - github_extractor - INFO - Creating entity for project: c19111ee-fa50-446b-93c8-ff4024bce9fe
+2025-11-27 23:04:41,399 - github_extractor - INFO - Saving project: mediapipe-test
+2025-11-27 23:04:41,702 - github_extractor - INFO - Creating entity for project: a962856a-0ad5-4aac-a7d5-99aaaac60a84
+2025-11-27 23:04:42,108 - github_extractor - INFO - Saving project: mam-shop
+2025-11-27 23:04:42,411 - github_extractor - INFO - Creating entity for project: 3afa8dae-494d-4190-8f3a-1a0c09441626
+2025-11-27 23:04:42,866 - github_extractor - INFO - Saving project: TrainTrack
+2025-11-27 23:04:43,170 - github_extractor - INFO - Creating entity for project: 0054d851-54a5-4fcc-ad17-86e4c66d1689
+2025-11-27 23:39:13,806 - github_extractor - INFO - YESS
+2025-11-27 23:39:54,519 - github_extractor - INFO - YESS
+2025-11-27 23:39:54,519 - github_extractor - INFO - ENDPOINTP: http://localhost:3001/api/content?token=453bedc87147479996f48eff90fd98d7368cb22961e6be3053dd706019803ef7

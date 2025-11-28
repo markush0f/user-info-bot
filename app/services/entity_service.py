@@ -13,7 +13,7 @@ class EntityService:
     def create_entity(
         self,
         user_id: uuid.UUID,
-        project_id: uuid.UUID,
+        project_id: uuid.UUID | None,
         entity_type: str,
         raw_data: dict,
         summary: str
