@@ -2,6 +2,7 @@ import uuid
 from app.db import get_session
 from app.repositories.entity_repository import EntityRepository
 from app.logger import logger
+from app.services.document_service import DocumentService
 
 
 class EntityService:
@@ -16,7 +17,7 @@ class EntityService:
         project_id: uuid.UUID | None,
         entity_type: str,
         raw_data: dict,
-        summary: str
+        summary: str,
     ):
         logger.info(f"Creating entity for project: {project_id}")
 
@@ -25,7 +26,7 @@ class EntityService:
             "project_id": project_id,
             "type": entity_type,
             "raw_data": raw_data,
-            "summary": summary
+            "summary": summary,
         }
 
         existing = self.repository.get_by_project(project_id)
@@ -33,4 +34,9 @@ class EntityService:
             return existing
 
         created = self.repository.create(entity_data)
-        return created
+
+        # Auto-generate document
+        document_service = DocumentService()
+        document = document_service.generate_document(created.id)
+
+        return {"entity": created, "document_id": str(document.id)}  # type: ignore

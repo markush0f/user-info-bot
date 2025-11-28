@@ -17,3 +17,6 @@ class EntityRepository:
             .filter(Entity.project_id == project_id)
             .first()
         )
+
+    def get_by_id(self, entity_id: str):
+        return self.session.get(Entity, entity_id)

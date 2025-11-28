@@ -142,7 +142,7 @@ class ProjectService:
 
             results.append({
                 "project_id": project_row.id,
-                "entity_id": entity_row.id
+                "entity_id": entity_row
             })
 
         return {"saved": results}
