@@ -1,10 +1,11 @@
 import uuid
 from fastapi import APIRouter, HTTPException
 from app.models.schemas.save_project_request import SaveProjectsRequest
+from app.services.project_languages_service import ProjectLanguagesService
 from app.services.project_service import ProjectService
 from app.models.project import Project
 
-router = APIRouter(prefix="/projects", tags=["projects"])
+router = APIRouter(prefix="/project", tags=["projects"])
 
 
 @router.post("/", response_model=Project)
@@ -52,12 +53,8 @@ def summarize_all_projects():
     service.summarize_all_projects()
 
 
-# @router.post("")
-
-
 @router.post("/save")
 async def save_projects(request: SaveProjectsRequest):
-   
 
     project_service = ProjectService()
 
@@ -75,7 +72,10 @@ async def save_projects(request: SaveProjectsRequest):
     return result
 
 
-
-# @router.post("/github/{name}")
-# def save_project_github(name: str):
-#     return
+@router.post("/single/languages")
+def save_project_languages(project_id: str):
+    service = ProjectLanguagesService()
+    result = service.save_project_languages(project_id)
+    return {
+        "saved": len(result),
+    }
