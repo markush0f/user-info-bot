@@ -33,4 +33,4 @@ def create_entity_endpoint(data: SaveEntityNoGithubProjectRequest):
         summary=data.summary,
     )
 
-    return {"entity_id": entity.id, "status": "saved"}
+    return {"entity": entity, "status": "saved"}

@@ -4,9 +4,9 @@ from app.core.db import get_session
 from app.domains.embeddings.models.embbeding import Embedding
 from app.domains.documents.repository import DocumentRepository
 from app.infrastructure.repositories.chunk_repository import ChunkRepository
-from app.domains.embeddings.repository import EmbeddingRepository
 from app.domains.chunks.service import ChunkService
-from app.core.logger import logger  
+from app.core.logger import logger
+from app.infrastructure.repositories.embedding_repository import EmbeddingRepository  
 
 
 class EmbeddingService:

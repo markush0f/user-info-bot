@@ -1,6 +1,6 @@
 import uuid
 from app.core.db import get_session
-from app.domains.documents.model.document import Document
+from app.domains.documents.models.document import Document
 from app.domains.documents.repository import DocumentRepository
 from app.infrastructure.repositories.entity_repository import EntityRepository
 from app.domains.documents.builder_service import DocumentBuilderService

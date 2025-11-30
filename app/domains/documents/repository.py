@@ -1,5 +1,6 @@
-from xml.dom.minidom import Document
-from sqlalchemy import text  
+from sqlalchemy import text
+
+from app.domains.documents.models.document import Document  
 
 
 class DocumentRepository:
