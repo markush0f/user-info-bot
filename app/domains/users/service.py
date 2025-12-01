@@ -4,12 +4,10 @@ from app.infrastructure.repositories.user_repository import UserRepository
 
 
 class UserService:
-    # Opens a database session and creates a repository
     def __init__(self):
         self.session = get_session()
         self.repository = UserRepository(self.session)
 
-    # Creates a user if it does not exist
     def create_user(self, username, name, bio, avatar_url, github_username):
         existing = self.repository.get_by_username(username)
         if existing:
@@ -28,13 +26,11 @@ class UserService:
         self.session.close()
         return result
 
-    # Retrieves a user by ID
     def get_user(self, user_id: str):
         result = self.repository.get_by_id(user_id)
         self.session.close()
         return result
 
-    # Retrieves all users
     def list_users(self):
         result = self.repository.get_all()
         self.session.close()
