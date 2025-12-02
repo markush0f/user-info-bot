@@ -1,13 +1,11 @@
-import uuid
-from app.core.db import get_session
 from app.infrastructure.repositories.chunk_repository import ChunkRepository
 from app.domains.chunks.models.chunk import Chunk
 from app.core.logger import logger
 
 
 class ChunkService:
-    def __init__(self):
-        self.session = get_session()
+    def __init__(self, session):
+        self.session = session
         self.chunk_repository = ChunkRepository(self.session)
 
     def _split(self, text: str, max_tokens: int = 300):
@@ -39,11 +37,13 @@ class ChunkService:
         for idx, text in enumerate(parts):
             chunk = Chunk(document_id=document_id, chunk_index=idx, chunk_text=text)
             created.append(self.chunk_repository.create(chunk))
-
+            
+        self.session.commit()
         return created
 
     def delete_all(self, user_id):
         self.chunk_repository.delete_all_by_user(user_id)
+        self.session.commit()
         
     def get_by_id(self, id)-> Chunk:
         return self.chunk_repository.get_by_id(id)

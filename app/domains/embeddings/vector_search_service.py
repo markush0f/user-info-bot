@@ -4,8 +4,8 @@ from app.core.db import get_session
 
 
 class VectorSearchService:
-    def __init__(self):
-        self.session = get_session()
+    def __init__(self, session):
+        self.session = session
         self.client = OpenAI()
         self.embedding_repository = EmbeddingRepository(self.session)
 

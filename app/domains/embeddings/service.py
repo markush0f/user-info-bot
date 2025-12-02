@@ -1,6 +1,5 @@
 import uuid
 from openai import OpenAI
-from app.core.db import get_session
 from app.domains.documents.service import DocumentService
 from app.domains.embeddings.models.embbeding import Embedding
 from app.domains.chunks.service import ChunkService
@@ -9,11 +8,11 @@ from app.infrastructure.repositories.embedding_repository import EmbeddingReposi
 
 
 class EmbeddingService:
-    def __init__(self):
-        self.session = get_session()
-        self.document_service = DocumentService()
+    def __init__(self, session):
+        self.session = session
+        self.document_service = DocumentService(self.session)
         self.embedding_repository = EmbeddingRepository(self.session)
-        self.chunk_service = ChunkService()
+        self.chunk_service = ChunkService(self.session)
         self.client = OpenAI()
         logger.info("EmbeddingService initialized")  
 
@@ -39,8 +38,11 @@ class EmbeddingService:
 
             logger.debug(f"Saved embedding {saved.id} for chunk {chunk_id}")  
             created.append(saved)
-
+            
+        self.session.commit()
+        
         logger.info(f"Created {len(created)} embeddings")  
+        
         return created
 
     def process_user(self, user_id: uuid.UUID):
@@ -57,8 +59,11 @@ class EmbeddingService:
             all_chunks.extend(chunks)
 
         logger.info(f"Created {len(all_chunks)} chunks for user {user_id}")  
-
+        
+        self.session.commit()
+        
         chunk_ids = [c.id for c in all_chunks]
+        
         embeddings = self.create_embeddings_for_chunks(chunk_ids)
 
         logger.info(f"Created embeddings for user {user_id}")  
@@ -71,3 +76,4 @@ class EmbeddingService:
 
     def delete_all(self, user_id):
         self.embedding_repository.delete_all_by_user(user_id)
+        self.session.commit()

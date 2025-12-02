@@ -1,5 +1,6 @@
 import uuid
 from app.core.db import get_session
+from app.infrastructure.extractor.web_extractor import extract_web_info
 from app.infrastructure.repositories.entity_repository import EntityRepository
 from app.core.logger import logger
 from app.core.logger import logger
@@ -7,8 +8,8 @@ from app.core.logger import logger
 
 class EntityService:
 
-    def __init__(self):
-        self.session = get_session()
+    def __init__(self, session):
+        self.session = session
         self.entity_repository = EntityRepository(self.session)
 
     def create_entity(
@@ -34,11 +35,15 @@ class EntityService:
             return existing
 
         created = self.entity_repository.create(entity_data)
-        return created  #
+        self.session.commit()
+        return created  
 
     def get_by_id(self, id):
         return self.entity_repository.get_by_id(id)
-        
-    
+
     def delete_all(self, user_id):
         self.entity_repository.delete_all_by_user(user_id)
+        self.session.commit()
+
+    def get_web_info(self, url: str):
+        return extract_web_info(url)

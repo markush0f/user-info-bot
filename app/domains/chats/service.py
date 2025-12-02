@@ -14,23 +14,26 @@ from app.domains.users.service import UserService
 
 
 class ChatService:
-    def __init__(self):
-        self.session = get_session()
+    def __init__(self, session):
+        self.session = session
         self.chat_repo = ChatRepository(self.session)
         self.message_repo = MessageRepository(self.session)
-        self.user_service = UserService()
-        self.vector_service = VectorSearchService()
+        self.user_service = UserService(self.session)
+        self.vector_service = VectorSearchService(self.session)
         self.context_builder = RagContextBuilder()
         self.llm = LLMClient()
 
     def create_chat(self, user_id: UUID) -> Chat:
         self.user_service.get_user_or_404(user_id)
         chat = Chat(id=uuid4(), user_id=user_id)
-        return self.chat_repo.create(chat)
+        chat_createad = self.chat_repo.create(chat)
+        self.session.commit()
+        return chat_createad
 
     def delete_chat(self, chat_id: UUID):
         RecordFinder(self.chat_repo).find_or_404(chat_id)
         self.chat_repo.delete(chat_id)
+        self.session.commit()
 
     def get_chat(self, chat_id: UUID) -> Chat:
         return RecordFinder(self.chat_repo).find_or_404(chat_id)
@@ -39,11 +42,7 @@ class ChatService:
         self.user_service.get_user_or_404(user_id)
         chats = self.chat_repo.get_all_by_user(user_id)
         return [
-            {
-                "chat_id": chat.id,
-                "created_at": chat.created_at,
-                "user_id": chat.user_id
-            }
+            {"chat_id": chat.id, "created_at": chat.created_at, "user_id": chat.user_id}
             for chat in chats
         ]
 
@@ -64,13 +63,17 @@ class ChatService:
         self.user_service.get_user_or_404(user_id)
         return self.chat_repo.get_by_id(chat_id) or self.create_chat(user_id)
 
+
     def _store_user_message(self, chat_id: UUID, content: str):
         msg = Message(id=uuid4(), chat_id=chat_id, role="user", content=content)
         self.message_repo.create(msg)
+        self.session.commit()  
+
 
     def _store_assistant_message(self, chat_id: UUID, content: str):
         msg = Message(id=uuid4(), chat_id=chat_id, role="assistant", content=content)
         self.message_repo.create(msg)
+        self.session.commit()  
 
     async def _create_rag_context(self, content: str, user_id: UUID) -> str:
         chunks = await self.vector_service.search(content, str(user_id))

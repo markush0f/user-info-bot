@@ -8,8 +8,8 @@ from app.infrastructure.repositories.project_repository import ProjectRepository
 
 
 class ProjectLanguagesService:
-    def __init__(self):
-        self.session = get_session()
+    def __init__(self, session):
+        self.session = session
         self.repo = ProjectLanguagesRepository(self.session)
         self.projects = ProjectRepository(self.session)
 

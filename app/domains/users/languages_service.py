@@ -1,13 +1,12 @@
 import uuid
 import json
-from app.core.db import get_session
 from app.domains.users.models.user_language import UserLanguage
 from app.infrastructure.repositories.user_languages_repository import UserLanguagesRepository
 
 
 class UserLanguagesService:
-    def __init__(self):
-        self.session = get_session()
+    def __init__(self, session):
+        self.session = session
         self.repo = UserLanguagesRepository(self.session)
 
     def save_user_languages(self, user_id: uuid.UUID):
