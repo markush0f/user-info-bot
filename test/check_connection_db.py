@@ -42,7 +42,6 @@ def test_postgres_connection():
         user=user,
         password=password,
         dbname=database,
-        sslmode="require",
     )
 
     cur = conn.cursor()

@@ -6,7 +6,7 @@ load_dotenv()
 
 DATABASE_URL = (
     f"postgresql://{os.getenv('USER_DB')}:{os.getenv('PASSWORD_DB')}"
-    f"@{os.getenv('HOST')}:{os.getenv('PORT')}/{os.getenv('DATABASE')}?sslmode=require"
+    f"@{os.getenv('HOST')}:{os.getenv('PORT')}/{os.getenv('DATABASE')}"
 )
 
 engine = create_engine(DATABASE_URL, echo=False)
