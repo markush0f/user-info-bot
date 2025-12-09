@@ -76,7 +76,7 @@ class ChatService:
         return self.context_builder.build(content, chunks)
 
     def _create_prompt(self, history, rag_context: str, user_input: str) -> str:
-        history_text = "\n".join(f"{m.role.UPPER()}: {m.content}" for m in history)
+        history_text = "\n".join(f"{m.role.upper()}: {m.content}" for m in history)
 
         return f"""
         You are an AI assistant specialized in professional and formal corporate communication.
